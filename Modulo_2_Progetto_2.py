@@ -3,8 +3,6 @@ import numpy as np
 import json
 import random
 
-np.random.seed(42)
-
 # PARTE 1 — CREAZIONE DATASET
 
 #1. Ordini.csv: 100.000 righe con ClienteID, ProdottoID, Quantità e DataOrdine.

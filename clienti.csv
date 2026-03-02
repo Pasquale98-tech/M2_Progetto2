@@ -1,0 +1,5001 @@
+ClienteID,Regione,Segmento
+1,Nord,Nuovi
+2,Sud,B2B
+3,Nord,Fedeli
+4,Centro,Nuovi
+5,Centro,Nuovi
+6,Sud,Nuovi
+7,Centro,Alto spendenti
+8,Sud,Nuovi
+9,Sud,Alto spendenti
+10,Nord,Alto spendenti
+11,Centro,B2B
+12,Centro,Alto spendenti
+13,Centro,Fedeli
+14,Nord,Alto spendenti
+15,Sud,B2B
+16,Centro,Fedeli
+17,Sud,Fedeli
+18,Sud,Nuovi
+19,Sud,Nuovi
+20,Nord,Nuovi
+21,Centro,Fedeli
+22,Sud,Fedeli
+23,Sud,Nuovi
+24,Sud,Nuovi
+25,Centro,Fedeli
+26,Centro,Alto spendenti
+27,Sud,Fedeli
+28,Centro,B2B
+29,Centro,Alto spendenti
+30,Nord,Fedeli
+31,Sud,Alto spendenti
+32,Sud,Nuovi
+33,Sud,B2B
+34,Sud,Alto spendenti
+35,Centro,B2B
+36,Sud,Alto spendenti
+37,Nord,Nuovi
+38,Sud,Fedeli
+39,Nord,Alto spendenti
+40,Centro,B2B
+41,Nord,B2B
+42,Centro,B2B
+43,Sud,Alto spendenti
+44,Nord,B2B
+45,Centro,Alto spendenti
+46,Nord,B2B
+47,Nord,Alto spendenti
+48,Sud,Nuovi
+49,Nord,B2B
+50,Nord,Nuovi
+51,Sud,Fedeli
+52,Nord,Alto spendenti
+53,Nord,B2B
+54,Sud,B2B
+55,Sud,Alto spendenti
+56,Nord,B2B
+57,Centro,B2B
+58,Nord,Alto spendenti
+59,Sud,Fedeli
+60,Centro,B2B
+61,Nord,Fedeli
+62,Sud,Fedeli
+63,Nord,Nuovi
+64,Sud,B2B
+65,Sud,Alto spendenti
+66,Sud,Alto spendenti
+67,Centro,Fedeli
+68,Nord,B2B
+69,Nord,Alto spendenti
+70,Nord,Nuovi
+71,Centro,Fedeli
+72,Centro,Fedeli
+73,Centro,Fedeli
+74,Centro,B2B
+75,Sud,B2B
+76,Centro,Nuovi
+77,Centro,B2B
+78,Centro,B2B
+79,Centro,B2B
+80,Sud,Alto spendenti
+81,Nord,B2B
+82,Sud,B2B
+83,Sud,Fedeli
+84,Sud,Alto spendenti
+85,Sud,Nuovi
+86,Nord,Alto spendenti
+87,Sud,B2B
+88,Centro,Fedeli
+89,Nord,Alto spendenti
+90,Nord,B2B
+91,Sud,Nuovi
+92,Centro,Alto spendenti
+93,Sud,Fedeli
+94,Nord,Fedeli
+95,Nord,Fedeli
+96,Nord,Fedeli
+97,Centro,B2B
+98,Nord,Alto spendenti
+99,Nord,Alto spendenti
+100,Nord,Alto spendenti
+101,Nord,Alto spendenti
+102,Centro,B2B
+103,Sud,Fedeli
+104,Nord,Fedeli
+105,Centro,B2B
+106,Sud,Fedeli
+107,Nord,B2B
+108,Nord,Fedeli
+109,Centro,B2B
+110,Sud,Fedeli
+111,Nord,B2B
+112,Centro,B2B
+113,Sud,Alto spendenti
+114,Nord,Nuovi
+115,Nord,Fedeli
+116,Nord,B2B
+117,Centro,B2B
+118,Centro,Fedeli
+119,Nord,Fedeli
+120,Nord,Nuovi
+121,Sud,B2B
+122,Sud,Alto spendenti
+123,Centro,Nuovi
+124,Nord,Fedeli
+125,Sud,Alto spendenti
+126,Centro,Alto spendenti
+127,Nord,Fedeli
+128,Sud,Alto spendenti
+129,Nord,Fedeli
+130,Nord,Fedeli
+131,Centro,Alto spendenti
+132,Sud,B2B
+133,Centro,Fedeli
+134,Nord,Fedeli
+135,Centro,Alto spendenti
+136,Sud,Fedeli
+137,Centro,Nuovi
+138,Nord,Alto spendenti
+139,Centro,Alto spendenti
+140,Nord,Fedeli
+141,Centro,Alto spendenti
+142,Sud,B2B
+143,Centro,Nuovi
+144,Centro,B2B
+145,Centro,B2B
+146,Sud,Nuovi
+147,Nord,B2B
+148,Centro,Alto spendenti
+149,Sud,Nuovi
+150,Sud,Fedeli
+151,Centro,Fedeli
+152,Centro,Alto spendenti
+153,Nord,B2B
+154,Centro,Alto spendenti
+155,Nord,B2B
+156,Centro,Fedeli
+157,Sud,Nuovi
+158,Nord,Nuovi
+159,Nord,Alto spendenti
+160,Centro,B2B
+161,Centro,Alto spendenti
+162,Sud,Alto spendenti
+163,Sud,Fedeli
+164,Centro,Nuovi
+165,Nord,Alto spendenti
+166,Sud,Alto spendenti
+167,Centro,B2B
+168,Nord,Nuovi
+169,Centro,Nuovi
+170,Sud,Fedeli
+171,Nord,Fedeli
+172,Nord,Fedeli
+173,Centro,Fedeli
+174,Nord,Fedeli
+175,Nord,B2B
+176,Sud,Fedeli
+177,Sud,B2B
+178,Nord,Alto spendenti
+179,Centro,Nuovi
+180,Sud,B2B
+181,Sud,Alto spendenti
+182,Sud,Alto spendenti
+183,Centro,Nuovi
+184,Nord,Fedeli
+185,Nord,Fedeli
+186,Centro,B2B
+187,Centro,B2B
+188,Centro,Alto spendenti
+189,Centro,Nuovi
+190,Nord,Nuovi
+191,Centro,Alto spendenti
+192,Centro,B2B
+193,Centro,B2B
+194,Nord,Nuovi
+195,Sud,Alto spendenti
+196,Sud,Nuovi
+197,Sud,Fedeli
+198,Nord,Alto spendenti
+199,Centro,Fedeli
+200,Centro,B2B
+201,Nord,B2B
+202,Nord,Nuovi
+203,Centro,B2B
+204,Sud,Nuovi
+205,Centro,Alto spendenti
+206,Sud,Alto spendenti
+207,Sud,Nuovi
+208,Nord,Fedeli
+209,Sud,B2B
+210,Sud,B2B
+211,Centro,Nuovi
+212,Centro,Fedeli
+213,Centro,Nuovi
+214,Sud,B2B
+215,Sud,Alto spendenti
+216,Nord,B2B
+217,Sud,Fedeli
+218,Sud,B2B
+219,Nord,B2B
+220,Centro,Fedeli
+221,Nord,Fedeli
+222,Sud,B2B
+223,Nord,B2B
+224,Centro,B2B
+225,Nord,Alto spendenti
+226,Centro,Nuovi
+227,Centro,Nuovi
+228,Centro,B2B
+229,Nord,Alto spendenti
+230,Sud,B2B
+231,Centro,Nuovi
+232,Centro,Alto spendenti
+233,Nord,Fedeli
+234,Centro,Nuovi
+235,Sud,Alto spendenti
+236,Sud,Fedeli
+237,Centro,Alto spendenti
+238,Sud,B2B
+239,Sud,Alto spendenti
+240,Nord,Fedeli
+241,Centro,Nuovi
+242,Sud,Fedeli
+243,Sud,B2B
+244,Centro,Alto spendenti
+245,Centro,Fedeli
+246,Nord,B2B
+247,Centro,Nuovi
+248,Nord,Alto spendenti
+249,Centro,Nuovi
+250,Sud,Fedeli
+251,Nord,B2B
+252,Sud,B2B
+253,Sud,Alto spendenti
+254,Sud,Fedeli
+255,Centro,B2B
+256,Nord,B2B
+257,Nord,Alto spendenti
+258,Sud,B2B
+259,Sud,Nuovi
+260,Centro,Fedeli
+261,Sud,Fedeli
+262,Nord,Fedeli
+263,Centro,B2B
+264,Nord,B2B
+265,Nord,Nuovi
+266,Centro,Alto spendenti
+267,Nord,B2B
+268,Sud,B2B
+269,Sud,Fedeli
+270,Nord,Alto spendenti
+271,Centro,Alto spendenti
+272,Nord,Nuovi
+273,Sud,B2B
+274,Nord,B2B
+275,Centro,B2B
+276,Nord,Alto spendenti
+277,Nord,Fedeli
+278,Centro,B2B
+279,Nord,B2B
+280,Sud,Alto spendenti
+281,Centro,Fedeli
+282,Nord,Fedeli
+283,Nord,B2B
+284,Nord,Fedeli
+285,Nord,B2B
+286,Sud,Nuovi
+287,Sud,B2B
+288,Centro,B2B
+289,Centro,B2B
+290,Nord,Fedeli
+291,Nord,Alto spendenti
+292,Nord,Nuovi
+293,Nord,Nuovi
+294,Nord,B2B
+295,Centro,Alto spendenti
+296,Centro,Alto spendenti
+297,Sud,Alto spendenti
+298,Centro,Alto spendenti
+299,Nord,Nuovi
+300,Nord,Alto spendenti
+301,Centro,Nuovi
+302,Centro,Nuovi
+303,Sud,Fedeli
+304,Sud,Alto spendenti
+305,Sud,B2B
+306,Nord,B2B
+307,Nord,Alto spendenti
+308,Centro,B2B
+309,Centro,B2B
+310,Centro,B2B
+311,Centro,Alto spendenti
+312,Centro,Nuovi
+313,Sud,Nuovi
+314,Sud,Nuovi
+315,Nord,Nuovi
+316,Centro,Fedeli
+317,Centro,B2B
+318,Centro,Alto spendenti
+319,Centro,Nuovi
+320,Nord,Nuovi
+321,Centro,B2B
+322,Sud,Fedeli
+323,Sud,Nuovi
+324,Centro,Nuovi
+325,Sud,Nuovi
+326,Centro,Alto spendenti
+327,Centro,Alto spendenti
+328,Nord,Alto spendenti
+329,Nord,Nuovi
+330,Nord,B2B
+331,Centro,Fedeli
+332,Sud,B2B
+333,Centro,Fedeli
+334,Centro,B2B
+335,Sud,Fedeli
+336,Sud,B2B
+337,Centro,Nuovi
+338,Sud,Nuovi
+339,Centro,Fedeli
+340,Sud,Alto spendenti
+341,Centro,Nuovi
+342,Nord,B2B
+343,Sud,Alto spendenti
+344,Nord,Fedeli
+345,Centro,B2B
+346,Sud,Nuovi
+347,Nord,B2B
+348,Centro,Alto spendenti
+349,Sud,Alto spendenti
+350,Nord,B2B
+351,Centro,Fedeli
+352,Nord,Fedeli
+353,Sud,Alto spendenti
+354,Nord,Nuovi
+355,Nord,B2B
+356,Nord,Nuovi
+357,Nord,Fedeli
+358,Centro,B2B
+359,Nord,B2B
+360,Sud,Fedeli
+361,Nord,Nuovi
+362,Sud,Alto spendenti
+363,Centro,Fedeli
+364,Centro,Fedeli
+365,Sud,Nuovi
+366,Sud,B2B
+367,Sud,Nuovi
+368,Sud,Fedeli
+369,Nord,Fedeli
+370,Centro,B2B
+371,Sud,Fedeli
+372,Nord,Fedeli
+373,Centro,B2B
+374,Nord,B2B
+375,Nord,B2B
+376,Nord,Nuovi
+377,Nord,Fedeli
+378,Sud,Fedeli
+379,Centro,B2B
+380,Nord,B2B
+381,Nord,Nuovi
+382,Sud,Alto spendenti
+383,Sud,B2B
+384,Centro,Alto spendenti
+385,Nord,B2B
+386,Centro,B2B
+387,Centro,B2B
+388,Nord,Nuovi
+389,Centro,Alto spendenti
+390,Nord,Fedeli
+391,Nord,Fedeli
+392,Nord,B2B
+393,Centro,Fedeli
+394,Centro,B2B
+395,Centro,Fedeli
+396,Nord,Fedeli
+397,Sud,Fedeli
+398,Sud,Alto spendenti
+399,Centro,Nuovi
+400,Centro,Fedeli
+401,Centro,Nuovi
+402,Nord,B2B
+403,Nord,Fedeli
+404,Centro,B2B
+405,Sud,Nuovi
+406,Centro,B2B
+407,Centro,Fedeli
+408,Centro,B2B
+409,Centro,Nuovi
+410,Nord,Fedeli
+411,Nord,Alto spendenti
+412,Nord,B2B
+413,Centro,Fedeli
+414,Centro,Alto spendenti
+415,Nord,B2B
+416,Nord,Nuovi
+417,Nord,B2B
+418,Nord,Alto spendenti
+419,Nord,Alto spendenti
+420,Centro,B2B
+421,Sud,B2B
+422,Sud,Nuovi
+423,Centro,Alto spendenti
+424,Centro,Nuovi
+425,Centro,Fedeli
+426,Nord,Nuovi
+427,Nord,Fedeli
+428,Sud,Alto spendenti
+429,Centro,Nuovi
+430,Centro,B2B
+431,Nord,Nuovi
+432,Sud,Alto spendenti
+433,Sud,Alto spendenti
+434,Centro,Nuovi
+435,Centro,B2B
+436,Centro,Alto spendenti
+437,Nord,Fedeli
+438,Nord,B2B
+439,Nord,Alto spendenti
+440,Sud,Alto spendenti
+441,Nord,Alto spendenti
+442,Nord,Nuovi
+443,Centro,Fedeli
+444,Nord,B2B
+445,Centro,Fedeli
+446,Centro,Nuovi
+447,Sud,Fedeli
+448,Centro,Nuovi
+449,Nord,Nuovi
+450,Centro,B2B
+451,Sud,Alto spendenti
+452,Sud,Nuovi
+453,Centro,B2B
+454,Nord,Nuovi
+455,Nord,Alto spendenti
+456,Centro,Nuovi
+457,Nord,Fedeli
+458,Sud,Alto spendenti
+459,Centro,Fedeli
+460,Nord,Fedeli
+461,Nord,Nuovi
+462,Nord,Fedeli
+463,Centro,Alto spendenti
+464,Nord,Alto spendenti
+465,Nord,Alto spendenti
+466,Nord,Nuovi
+467,Nord,B2B
+468,Sud,B2B
+469,Centro,Nuovi
+470,Nord,Fedeli
+471,Sud,Alto spendenti
+472,Sud,B2B
+473,Nord,Nuovi
+474,Sud,B2B
+475,Nord,Alto spendenti
+476,Centro,Alto spendenti
+477,Nord,Fedeli
+478,Nord,Nuovi
+479,Nord,Alto spendenti
+480,Nord,Nuovi
+481,Centro,Fedeli
+482,Centro,Alto spendenti
+483,Centro,Nuovi
+484,Sud,Alto spendenti
+485,Nord,B2B
+486,Nord,Nuovi
+487,Sud,B2B
+488,Sud,Alto spendenti
+489,Nord,Nuovi
+490,Centro,Nuovi
+491,Nord,Alto spendenti
+492,Nord,Nuovi
+493,Sud,Alto spendenti
+494,Sud,B2B
+495,Sud,Alto spendenti
+496,Sud,Fedeli
+497,Centro,B2B
+498,Centro,Alto spendenti
+499,Sud,Fedeli
+500,Nord,Nuovi
+501,Centro,Nuovi
+502,Centro,Alto spendenti
+503,Sud,Fedeli
+504,Nord,Fedeli
+505,Centro,B2B
+506,Centro,B2B
+507,Sud,Nuovi
+508,Centro,Alto spendenti
+509,Sud,B2B
+510,Nord,Fedeli
+511,Nord,B2B
+512,Sud,Fedeli
+513,Nord,Nuovi
+514,Nord,Fedeli
+515,Centro,Fedeli
+516,Centro,Alto spendenti
+517,Sud,Alto spendenti
+518,Nord,Nuovi
+519,Centro,Fedeli
+520,Centro,B2B
+521,Nord,B2B
+522,Centro,Alto spendenti
+523,Sud,Alto spendenti
+524,Centro,Nuovi
+525,Sud,B2B
+526,Centro,Nuovi
+527,Centro,Fedeli
+528,Nord,Fedeli
+529,Sud,Fedeli
+530,Nord,Nuovi
+531,Centro,Fedeli
+532,Sud,Nuovi
+533,Nord,B2B
+534,Centro,Nuovi
+535,Sud,Fedeli
+536,Nord,Alto spendenti
+537,Centro,Alto spendenti
+538,Centro,B2B
+539,Centro,Fedeli
+540,Nord,Alto spendenti
+541,Centro,B2B
+542,Nord,B2B
+543,Centro,Fedeli
+544,Centro,Nuovi
+545,Nord,Alto spendenti
+546,Centro,Nuovi
+547,Nord,Alto spendenti
+548,Nord,Nuovi
+549,Nord,Alto spendenti
+550,Sud,Fedeli
+551,Sud,B2B
+552,Nord,Alto spendenti
+553,Nord,B2B
+554,Nord,Nuovi
+555,Nord,Fedeli
+556,Centro,Fedeli
+557,Nord,Nuovi
+558,Sud,Fedeli
+559,Sud,Fedeli
+560,Centro,Nuovi
+561,Centro,Nuovi
+562,Centro,Nuovi
+563,Nord,Nuovi
+564,Sud,Fedeli
+565,Centro,Nuovi
+566,Centro,Alto spendenti
+567,Sud,Alto spendenti
+568,Sud,Alto spendenti
+569,Sud,Fedeli
+570,Centro,Nuovi
+571,Centro,Nuovi
+572,Sud,Nuovi
+573,Nord,Nuovi
+574,Centro,Alto spendenti
+575,Sud,Alto spendenti
+576,Sud,Nuovi
+577,Sud,Fedeli
+578,Centro,Nuovi
+579,Centro,B2B
+580,Centro,Fedeli
+581,Nord,B2B
+582,Sud,Nuovi
+583,Nord,Alto spendenti
+584,Centro,Nuovi
+585,Centro,Alto spendenti
+586,Sud,B2B
+587,Centro,Fedeli
+588,Nord,Alto spendenti
+589,Sud,Nuovi
+590,Centro,B2B
+591,Centro,Fedeli
+592,Centro,Fedeli
+593,Sud,Nuovi
+594,Sud,Fedeli
+595,Nord,Nuovi
+596,Sud,Nuovi
+597,Centro,B2B
+598,Centro,B2B
+599,Centro,B2B
+600,Sud,Nuovi
+601,Sud,Nuovi
+602,Nord,Nuovi
+603,Sud,Nuovi
+604,Centro,Nuovi
+605,Nord,B2B
+606,Nord,B2B
+607,Nord,Alto spendenti
+608,Nord,Alto spendenti
+609,Centro,Fedeli
+610,Nord,Alto spendenti
+611,Nord,Fedeli
+612,Nord,Fedeli
+613,Sud,B2B
+614,Sud,Nuovi
+615,Nord,Nuovi
+616,Sud,Fedeli
+617,Nord,Nuovi
+618,Centro,Nuovi
+619,Centro,Fedeli
+620,Nord,Nuovi
+621,Centro,Alto spendenti
+622,Nord,Nuovi
+623,Centro,Alto spendenti
+624,Nord,Nuovi
+625,Nord,B2B
+626,Sud,Nuovi
+627,Sud,Nuovi
+628,Nord,Fedeli
+629,Centro,Nuovi
+630,Centro,Alto spendenti
+631,Sud,Alto spendenti
+632,Centro,Nuovi
+633,Sud,B2B
+634,Sud,Nuovi
+635,Sud,B2B
+636,Centro,Alto spendenti
+637,Sud,Nuovi
+638,Sud,Fedeli
+639,Centro,Fedeli
+640,Centro,Nuovi
+641,Nord,Alto spendenti
+642,Centro,B2B
+643,Sud,Nuovi
+644,Sud,Alto spendenti
+645,Sud,Nuovi
+646,Centro,Alto spendenti
+647,Centro,Alto spendenti
+648,Sud,Nuovi
+649,Sud,Fedeli
+650,Sud,Fedeli
+651,Nord,Alto spendenti
+652,Centro,B2B
+653,Sud,Nuovi
+654,Centro,Alto spendenti
+655,Sud,Fedeli
+656,Sud,Alto spendenti
+657,Centro,Fedeli
+658,Nord,B2B
+659,Nord,B2B
+660,Sud,Nuovi
+661,Centro,B2B
+662,Sud,B2B
+663,Sud,Alto spendenti
+664,Nord,Alto spendenti
+665,Sud,Fedeli
+666,Centro,Nuovi
+667,Sud,Fedeli
+668,Centro,B2B
+669,Sud,Alto spendenti
+670,Sud,B2B
+671,Nord,Nuovi
+672,Nord,Alto spendenti
+673,Sud,Fedeli
+674,Centro,Nuovi
+675,Nord,Fedeli
+676,Centro,Fedeli
+677,Centro,Fedeli
+678,Sud,Fedeli
+679,Centro,Fedeli
+680,Sud,Fedeli
+681,Sud,Fedeli
+682,Sud,Nuovi
+683,Sud,Nuovi
+684,Nord,B2B
+685,Sud,Alto spendenti
+686,Centro,Fedeli
+687,Sud,Nuovi
+688,Nord,B2B
+689,Centro,B2B
+690,Centro,Fedeli
+691,Sud,Fedeli
+692,Centro,Alto spendenti
+693,Sud,Alto spendenti
+694,Centro,Nuovi
+695,Sud,B2B
+696,Centro,Fedeli
+697,Centro,B2B
+698,Centro,Alto spendenti
+699,Centro,Fedeli
+700,Nord,Alto spendenti
+701,Nord,Alto spendenti
+702,Nord,Fedeli
+703,Nord,Fedeli
+704,Sud,B2B
+705,Nord,Alto spendenti
+706,Sud,Alto spendenti
+707,Nord,Nuovi
+708,Nord,B2B
+709,Centro,Nuovi
+710,Sud,B2B
+711,Nord,Fedeli
+712,Nord,Nuovi
+713,Nord,Nuovi
+714,Sud,Alto spendenti
+715,Nord,Nuovi
+716,Sud,B2B
+717,Centro,B2B
+718,Sud,B2B
+719,Nord,Alto spendenti
+720,Centro,Fedeli
+721,Centro,B2B
+722,Nord,Nuovi
+723,Sud,Nuovi
+724,Nord,Alto spendenti
+725,Sud,Alto spendenti
+726,Centro,Fedeli
+727,Centro,Nuovi
+728,Centro,B2B
+729,Sud,Nuovi
+730,Nord,Alto spendenti
+731,Sud,Nuovi
+732,Nord,Alto spendenti
+733,Nord,Alto spendenti
+734,Centro,B2B
+735,Centro,B2B
+736,Centro,Fedeli
+737,Centro,Nuovi
+738,Nord,Nuovi
+739,Nord,B2B
+740,Sud,Alto spendenti
+741,Nord,Fedeli
+742,Sud,B2B
+743,Nord,Nuovi
+744,Sud,Nuovi
+745,Sud,Alto spendenti
+746,Nord,Alto spendenti
+747,Centro,Alto spendenti
+748,Nord,Fedeli
+749,Nord,B2B
+750,Centro,Fedeli
+751,Nord,B2B
+752,Nord,Fedeli
+753,Centro,B2B
+754,Centro,Fedeli
+755,Sud,Alto spendenti
+756,Nord,Nuovi
+757,Sud,Nuovi
+758,Nord,Fedeli
+759,Nord,Fedeli
+760,Sud,Fedeli
+761,Sud,Nuovi
+762,Centro,Alto spendenti
+763,Nord,Fedeli
+764,Centro,Alto spendenti
+765,Nord,Alto spendenti
+766,Centro,Alto spendenti
+767,Centro,B2B
+768,Nord,Alto spendenti
+769,Centro,B2B
+770,Sud,Alto spendenti
+771,Nord,Fedeli
+772,Centro,Alto spendenti
+773,Centro,Nuovi
+774,Sud,B2B
+775,Sud,B2B
+776,Centro,Alto spendenti
+777,Centro,Fedeli
+778,Sud,Alto spendenti
+779,Sud,Nuovi
+780,Nord,Alto spendenti
+781,Centro,B2B
+782,Nord,Alto spendenti
+783,Centro,Alto spendenti
+784,Centro,B2B
+785,Centro,Fedeli
+786,Sud,Alto spendenti
+787,Sud,B2B
+788,Nord,Alto spendenti
+789,Nord,Fedeli
+790,Sud,Fedeli
+791,Nord,Fedeli
+792,Centro,B2B
+793,Nord,Alto spendenti
+794,Nord,Alto spendenti
+795,Centro,Alto spendenti
+796,Nord,Alto spendenti
+797,Sud,B2B
+798,Centro,B2B
+799,Centro,Nuovi
+800,Sud,Nuovi
+801,Nord,Nuovi
+802,Nord,B2B
+803,Sud,Fedeli
+804,Nord,Alto spendenti
+805,Sud,Fedeli
+806,Centro,Alto spendenti
+807,Sud,Nuovi
+808,Nord,B2B
+809,Centro,B2B
+810,Nord,Fedeli
+811,Nord,Fedeli
+812,Centro,Alto spendenti
+813,Nord,Fedeli
+814,Sud,B2B
+815,Nord,Nuovi
+816,Sud,Fedeli
+817,Sud,Nuovi
+818,Sud,Fedeli
+819,Sud,Alto spendenti
+820,Nord,Fedeli
+821,Centro,Nuovi
+822,Centro,B2B
+823,Nord,Alto spendenti
+824,Nord,Nuovi
+825,Nord,B2B
+826,Nord,Alto spendenti
+827,Sud,B2B
+828,Nord,B2B
+829,Sud,Fedeli
+830,Nord,Alto spendenti
+831,Nord,Fedeli
+832,Centro,Alto spendenti
+833,Centro,B2B
+834,Sud,Nuovi
+835,Centro,Alto spendenti
+836,Sud,Nuovi
+837,Sud,B2B
+838,Sud,B2B
+839,Centro,B2B
+840,Sud,B2B
+841,Sud,Alto spendenti
+842,Nord,B2B
+843,Centro,Alto spendenti
+844,Sud,Alto spendenti
+845,Sud,B2B
+846,Nord,Fedeli
+847,Sud,Alto spendenti
+848,Centro,B2B
+849,Centro,B2B
+850,Sud,Fedeli
+851,Sud,Nuovi
+852,Nord,B2B
+853,Sud,Alto spendenti
+854,Nord,Nuovi
+855,Nord,Nuovi
+856,Sud,Nuovi
+857,Sud,Fedeli
+858,Nord,Fedeli
+859,Sud,Alto spendenti
+860,Nord,Alto spendenti
+861,Sud,Alto spendenti
+862,Nord,Fedeli
+863,Sud,Fedeli
+864,Nord,Fedeli
+865,Nord,Alto spendenti
+866,Sud,Fedeli
+867,Sud,Fedeli
+868,Nord,B2B
+869,Nord,Nuovi
+870,Centro,Alto spendenti
+871,Nord,Alto spendenti
+872,Sud,Nuovi
+873,Sud,Alto spendenti
+874,Centro,B2B
+875,Nord,Alto spendenti
+876,Sud,Fedeli
+877,Nord,Nuovi
+878,Nord,Nuovi
+879,Centro,Alto spendenti
+880,Sud,Nuovi
+881,Sud,Fedeli
+882,Nord,Fedeli
+883,Sud,Fedeli
+884,Sud,Alto spendenti
+885,Nord,Nuovi
+886,Nord,Alto spendenti
+887,Sud,Alto spendenti
+888,Sud,B2B
+889,Centro,Nuovi
+890,Centro,Nuovi
+891,Sud,Fedeli
+892,Sud,Nuovi
+893,Nord,B2B
+894,Sud,B2B
+895,Centro,B2B
+896,Sud,Alto spendenti
+897,Sud,Nuovi
+898,Nord,Nuovi
+899,Centro,Nuovi
+900,Sud,B2B
+901,Sud,Nuovi
+902,Nord,Fedeli
+903,Centro,Fedeli
+904,Centro,Alto spendenti
+905,Sud,B2B
+906,Sud,B2B
+907,Nord,Nuovi
+908,Nord,Fedeli
+909,Nord,B2B
+910,Nord,Alto spendenti
+911,Nord,B2B
+912,Sud,Alto spendenti
+913,Sud,Fedeli
+914,Centro,Fedeli
+915,Centro,Nuovi
+916,Centro,Nuovi
+917,Sud,Fedeli
+918,Centro,Alto spendenti
+919,Centro,Fedeli
+920,Nord,B2B
+921,Sud,Fedeli
+922,Centro,B2B
+923,Sud,Alto spendenti
+924,Nord,B2B
+925,Nord,Nuovi
+926,Nord,Nuovi
+927,Nord,Alto spendenti
+928,Nord,B2B
+929,Centro,Nuovi
+930,Nord,Nuovi
+931,Centro,Alto spendenti
+932,Nord,Fedeli
+933,Centro,Fedeli
+934,Centro,Fedeli
+935,Centro,Nuovi
+936,Sud,Fedeli
+937,Centro,Nuovi
+938,Sud,B2B
+939,Sud,Fedeli
+940,Nord,B2B
+941,Centro,Alto spendenti
+942,Centro,Alto spendenti
+943,Centro,Nuovi
+944,Centro,Nuovi
+945,Sud,Fedeli
+946,Sud,B2B
+947,Sud,B2B
+948,Centro,B2B
+949,Sud,Fedeli
+950,Sud,Fedeli
+951,Centro,Fedeli
+952,Sud,B2B
+953,Centro,Alto spendenti
+954,Centro,B2B
+955,Centro,Alto spendenti
+956,Sud,Alto spendenti
+957,Nord,Fedeli
+958,Sud,Nuovi
+959,Centro,B2B
+960,Sud,Alto spendenti
+961,Sud,B2B
+962,Nord,Fedeli
+963,Nord,Alto spendenti
+964,Sud,Alto spendenti
+965,Nord,B2B
+966,Nord,B2B
+967,Centro,Nuovi
+968,Centro,Fedeli
+969,Centro,Alto spendenti
+970,Sud,Nuovi
+971,Sud,B2B
+972,Centro,Nuovi
+973,Sud,B2B
+974,Nord,Alto spendenti
+975,Nord,Alto spendenti
+976,Sud,Alto spendenti
+977,Sud,B2B
+978,Centro,Nuovi
+979,Centro,B2B
+980,Nord,Nuovi
+981,Centro,Nuovi
+982,Centro,Nuovi
+983,Centro,B2B
+984,Centro,Alto spendenti
+985,Sud,Fedeli
+986,Sud,B2B
+987,Sud,B2B
+988,Centro,Fedeli
+989,Sud,Fedeli
+990,Centro,Nuovi
+991,Centro,Nuovi
+992,Nord,Fedeli
+993,Nord,Alto spendenti
+994,Nord,Alto spendenti
+995,Nord,Nuovi
+996,Sud,B2B
+997,Nord,Fedeli
+998,Sud,Nuovi
+999,Centro,Alto spendenti
+1000,Sud,B2B
+1001,Centro,B2B
+1002,Centro,Nuovi
+1003,Sud,Fedeli
+1004,Centro,B2B
+1005,Sud,Nuovi
+1006,Sud,Nuovi
+1007,Sud,Fedeli
+1008,Nord,Alto spendenti
+1009,Centro,Fedeli
+1010,Nord,Nuovi
+1011,Sud,B2B
+1012,Sud,B2B
+1013,Sud,B2B
+1014,Sud,Nuovi
+1015,Nord,B2B
+1016,Nord,Fedeli
+1017,Sud,Fedeli
+1018,Sud,Alto spendenti
+1019,Sud,Nuovi
+1020,Sud,Alto spendenti
+1021,Sud,Alto spendenti
+1022,Nord,B2B
+1023,Sud,Nuovi
+1024,Nord,Fedeli
+1025,Nord,Fedeli
+1026,Centro,Nuovi
+1027,Centro,Nuovi
+1028,Centro,Fedeli
+1029,Centro,Fedeli
+1030,Nord,Fedeli
+1031,Nord,Fedeli
+1032,Nord,Nuovi
+1033,Nord,Nuovi
+1034,Sud,Nuovi
+1035,Sud,B2B
+1036,Nord,Fedeli
+1037,Nord,B2B
+1038,Nord,Alto spendenti
+1039,Sud,B2B
+1040,Centro,B2B
+1041,Centro,Nuovi
+1042,Centro,Alto spendenti
+1043,Sud,Nuovi
+1044,Centro,Nuovi
+1045,Centro,Alto spendenti
+1046,Centro,Fedeli
+1047,Nord,Alto spendenti
+1048,Centro,Fedeli
+1049,Nord,Fedeli
+1050,Nord,Nuovi
+1051,Centro,Nuovi
+1052,Centro,Nuovi
+1053,Nord,Nuovi
+1054,Centro,B2B
+1055,Sud,B2B
+1056,Centro,B2B
+1057,Nord,Fedeli
+1058,Centro,Fedeli
+1059,Sud,Nuovi
+1060,Centro,Nuovi
+1061,Centro,Alto spendenti
+1062,Sud,B2B
+1063,Sud,Fedeli
+1064,Sud,B2B
+1065,Nord,Nuovi
+1066,Sud,Nuovi
+1067,Nord,Fedeli
+1068,Sud,B2B
+1069,Centro,Nuovi
+1070,Nord,Nuovi
+1071,Sud,Fedeli
+1072,Nord,Fedeli
+1073,Nord,Alto spendenti
+1074,Nord,Nuovi
+1075,Nord,Nuovi
+1076,Centro,Alto spendenti
+1077,Centro,Nuovi
+1078,Nord,B2B
+1079,Centro,Nuovi
+1080,Sud,Fedeli
+1081,Centro,Alto spendenti
+1082,Nord,Fedeli
+1083,Centro,Alto spendenti
+1084,Centro,Alto spendenti
+1085,Sud,Alto spendenti
+1086,Sud,Nuovi
+1087,Centro,B2B
+1088,Sud,B2B
+1089,Nord,B2B
+1090,Nord,Alto spendenti
+1091,Nord,Nuovi
+1092,Nord,Fedeli
+1093,Centro,B2B
+1094,Sud,Alto spendenti
+1095,Centro,B2B
+1096,Centro,Nuovi
+1097,Nord,Fedeli
+1098,Nord,B2B
+1099,Centro,B2B
+1100,Nord,B2B
+1101,Centro,Fedeli
+1102,Sud,Alto spendenti
+1103,Nord,Nuovi
+1104,Nord,B2B
+1105,Nord,Nuovi
+1106,Centro,Fedeli
+1107,Nord,Nuovi
+1108,Centro,Alto spendenti
+1109,Sud,Alto spendenti
+1110,Nord,Fedeli
+1111,Nord,Alto spendenti
+1112,Nord,Alto spendenti
+1113,Sud,Fedeli
+1114,Centro,Fedeli
+1115,Centro,B2B
+1116,Centro,Alto spendenti
+1117,Centro,Fedeli
+1118,Centro,Alto spendenti
+1119,Nord,Nuovi
+1120,Nord,Alto spendenti
+1121,Nord,Fedeli
+1122,Nord,Alto spendenti
+1123,Centro,Alto spendenti
+1124,Nord,Nuovi
+1125,Sud,Alto spendenti
+1126,Sud,Nuovi
+1127,Sud,B2B
+1128,Sud,Nuovi
+1129,Nord,Nuovi
+1130,Sud,B2B
+1131,Nord,Fedeli
+1132,Sud,Nuovi
+1133,Centro,B2B
+1134,Sud,B2B
+1135,Nord,B2B
+1136,Sud,Alto spendenti
+1137,Sud,Nuovi
+1138,Nord,Fedeli
+1139,Centro,B2B
+1140,Nord,Fedeli
+1141,Sud,Nuovi
+1142,Sud,Fedeli
+1143,Centro,Fedeli
+1144,Sud,Fedeli
+1145,Centro,Fedeli
+1146,Sud,B2B
+1147,Centro,Nuovi
+1148,Centro,Nuovi
+1149,Nord,Alto spendenti
+1150,Centro,B2B
+1151,Centro,B2B
+1152,Nord,B2B
+1153,Centro,Alto spendenti
+1154,Centro,Nuovi
+1155,Centro,Alto spendenti
+1156,Centro,Nuovi
+1157,Nord,Nuovi
+1158,Centro,B2B
+1159,Centro,Nuovi
+1160,Centro,B2B
+1161,Nord,Fedeli
+1162,Sud,Nuovi
+1163,Centro,Fedeli
+1164,Nord,Alto spendenti
+1165,Centro,B2B
+1166,Centro,Alto spendenti
+1167,Sud,Nuovi
+1168,Nord,Nuovi
+1169,Centro,Fedeli
+1170,Centro,Nuovi
+1171,Sud,B2B
+1172,Sud,Alto spendenti
+1173,Sud,Nuovi
+1174,Sud,B2B
+1175,Centro,B2B
+1176,Nord,B2B
+1177,Nord,B2B
+1178,Nord,B2B
+1179,Nord,Alto spendenti
+1180,Nord,Nuovi
+1181,Centro,Nuovi
+1182,Centro,Nuovi
+1183,Centro,Fedeli
+1184,Centro,Nuovi
+1185,Sud,Nuovi
+1186,Centro,Fedeli
+1187,Centro,Fedeli
+1188,Nord,Fedeli
+1189,Nord,Nuovi
+1190,Centro,B2B
+1191,Sud,B2B
+1192,Nord,Fedeli
+1193,Centro,B2B
+1194,Nord,Fedeli
+1195,Nord,Nuovi
+1196,Nord,B2B
+1197,Centro,Nuovi
+1198,Centro,Fedeli
+1199,Nord,Nuovi
+1200,Centro,Fedeli
+1201,Sud,Fedeli
+1202,Nord,Fedeli
+1203,Nord,Fedeli
+1204,Centro,Fedeli
+1205,Nord,Nuovi
+1206,Sud,Alto spendenti
+1207,Nord,Alto spendenti
+1208,Centro,Fedeli
+1209,Centro,Fedeli
+1210,Nord,Fedeli
+1211,Sud,Fedeli
+1212,Centro,Fedeli
+1213,Sud,Nuovi
+1214,Nord,Alto spendenti
+1215,Nord,Fedeli
+1216,Centro,B2B
+1217,Sud,Fedeli
+1218,Centro,Nuovi
+1219,Sud,Fedeli
+1220,Nord,B2B
+1221,Centro,B2B
+1222,Nord,Fedeli
+1223,Centro,Fedeli
+1224,Sud,B2B
+1225,Nord,B2B
+1226,Sud,Nuovi
+1227,Nord,Fedeli
+1228,Centro,Nuovi
+1229,Sud,B2B
+1230,Sud,Alto spendenti
+1231,Centro,Alto spendenti
+1232,Nord,B2B
+1233,Sud,B2B
+1234,Nord,Fedeli
+1235,Sud,Nuovi
+1236,Sud,B2B
+1237,Nord,Alto spendenti
+1238,Centro,Nuovi
+1239,Centro,B2B
+1240,Nord,B2B
+1241,Nord,Fedeli
+1242,Centro,B2B
+1243,Nord,B2B
+1244,Nord,Fedeli
+1245,Centro,Nuovi
+1246,Centro,Alto spendenti
+1247,Sud,Alto spendenti
+1248,Centro,B2B
+1249,Centro,Nuovi
+1250,Sud,Alto spendenti
+1251,Centro,Alto spendenti
+1252,Centro,Alto spendenti
+1253,Nord,B2B
+1254,Sud,Nuovi
+1255,Sud,Alto spendenti
+1256,Nord,B2B
+1257,Centro,Alto spendenti
+1258,Sud,Nuovi
+1259,Nord,Fedeli
+1260,Nord,Alto spendenti
+1261,Centro,Nuovi
+1262,Centro,Alto spendenti
+1263,Nord,Nuovi
+1264,Nord,Alto spendenti
+1265,Centro,Fedeli
+1266,Sud,Alto spendenti
+1267,Centro,Nuovi
+1268,Nord,Alto spendenti
+1269,Centro,Fedeli
+1270,Nord,Fedeli
+1271,Sud,Nuovi
+1272,Centro,Alto spendenti
+1273,Sud,B2B
+1274,Sud,B2B
+1275,Nord,Fedeli
+1276,Centro,Nuovi
+1277,Centro,Alto spendenti
+1278,Nord,Alto spendenti
+1279,Centro,Nuovi
+1280,Nord,Fedeli
+1281,Sud,Fedeli
+1282,Centro,Nuovi
+1283,Nord,Fedeli
+1284,Nord,Alto spendenti
+1285,Nord,B2B
+1286,Centro,Alto spendenti
+1287,Nord,Alto spendenti
+1288,Nord,Nuovi
+1289,Nord,Nuovi
+1290,Centro,Nuovi
+1291,Sud,Alto spendenti
+1292,Nord,Fedeli
+1293,Nord,Alto spendenti
+1294,Centro,Fedeli
+1295,Sud,Fedeli
+1296,Sud,Nuovi
+1297,Centro,B2B
+1298,Sud,Fedeli
+1299,Sud,Nuovi
+1300,Nord,B2B
+1301,Sud,Fedeli
+1302,Nord,Fedeli
+1303,Sud,Fedeli
+1304,Centro,Fedeli
+1305,Nord,Fedeli
+1306,Sud,Alto spendenti
+1307,Nord,B2B
+1308,Sud,Nuovi
+1309,Sud,Alto spendenti
+1310,Nord,Fedeli
+1311,Sud,Fedeli
+1312,Sud,Fedeli
+1313,Sud,B2B
+1314,Centro,B2B
+1315,Centro,Fedeli
+1316,Nord,Alto spendenti
+1317,Nord,Fedeli
+1318,Sud,Fedeli
+1319,Sud,Fedeli
+1320,Centro,Nuovi
+1321,Centro,B2B
+1322,Nord,Fedeli
+1323,Centro,B2B
+1324,Centro,Fedeli
+1325,Centro,Alto spendenti
+1326,Centro,B2B
+1327,Nord,Nuovi
+1328,Centro,Alto spendenti
+1329,Sud,Nuovi
+1330,Nord,Alto spendenti
+1331,Centro,Fedeli
+1332,Centro,Nuovi
+1333,Nord,B2B
+1334,Centro,B2B
+1335,Centro,Nuovi
+1336,Centro,Fedeli
+1337,Sud,Alto spendenti
+1338,Nord,Fedeli
+1339,Nord,Fedeli
+1340,Sud,Nuovi
+1341,Nord,Nuovi
+1342,Centro,Alto spendenti
+1343,Centro,Nuovi
+1344,Sud,Fedeli
+1345,Centro,Fedeli
+1346,Nord,B2B
+1347,Sud,Alto spendenti
+1348,Nord,Nuovi
+1349,Nord,B2B
+1350,Sud,Alto spendenti
+1351,Centro,Nuovi
+1352,Centro,B2B
+1353,Centro,B2B
+1354,Nord,Fedeli
+1355,Centro,Nuovi
+1356,Nord,Alto spendenti
+1357,Nord,B2B
+1358,Nord,Fedeli
+1359,Sud,Fedeli
+1360,Centro,Nuovi
+1361,Sud,Nuovi
+1362,Centro,Fedeli
+1363,Sud,Nuovi
+1364,Nord,Alto spendenti
+1365,Sud,Nuovi
+1366,Sud,Alto spendenti
+1367,Sud,Alto spendenti
+1368,Centro,Nuovi
+1369,Centro,Fedeli
+1370,Sud,Fedeli
+1371,Centro,Alto spendenti
+1372,Centro,Alto spendenti
+1373,Centro,Fedeli
+1374,Centro,Nuovi
+1375,Sud,Fedeli
+1376,Centro,Alto spendenti
+1377,Sud,Fedeli
+1378,Centro,B2B
+1379,Sud,Nuovi
+1380,Centro,Alto spendenti
+1381,Centro,Nuovi
+1382,Nord,Alto spendenti
+1383,Nord,Alto spendenti
+1384,Centro,Nuovi
+1385,Centro,Nuovi
+1386,Sud,Nuovi
+1387,Nord,Alto spendenti
+1388,Nord,Nuovi
+1389,Centro,Fedeli
+1390,Sud,B2B
+1391,Centro,Fedeli
+1392,Centro,B2B
+1393,Centro,Fedeli
+1394,Nord,B2B
+1395,Sud,B2B
+1396,Centro,Nuovi
+1397,Centro,Nuovi
+1398,Nord,Nuovi
+1399,Centro,Alto spendenti
+1400,Centro,Nuovi
+1401,Centro,B2B
+1402,Sud,Alto spendenti
+1403,Centro,B2B
+1404,Sud,Alto spendenti
+1405,Centro,Alto spendenti
+1406,Sud,Fedeli
+1407,Sud,B2B
+1408,Sud,Alto spendenti
+1409,Sud,B2B
+1410,Centro,Nuovi
+1411,Centro,Alto spendenti
+1412,Centro,Nuovi
+1413,Nord,Nuovi
+1414,Sud,B2B
+1415,Sud,B2B
+1416,Nord,Nuovi
+1417,Centro,B2B
+1418,Nord,Alto spendenti
+1419,Sud,B2B
+1420,Sud,Nuovi
+1421,Centro,B2B
+1422,Sud,Fedeli
+1423,Nord,Nuovi
+1424,Centro,B2B
+1425,Centro,Fedeli
+1426,Nord,Fedeli
+1427,Centro,B2B
+1428,Nord,Fedeli
+1429,Sud,Fedeli
+1430,Nord,Alto spendenti
+1431,Sud,B2B
+1432,Nord,B2B
+1433,Nord,B2B
+1434,Sud,Alto spendenti
+1435,Sud,B2B
+1436,Sud,Fedeli
+1437,Centro,Alto spendenti
+1438,Nord,Fedeli
+1439,Sud,Nuovi
+1440,Sud,B2B
+1441,Centro,Alto spendenti
+1442,Sud,Nuovi
+1443,Sud,Nuovi
+1444,Sud,Fedeli
+1445,Sud,Fedeli
+1446,Nord,Fedeli
+1447,Centro,Alto spendenti
+1448,Sud,Alto spendenti
+1449,Sud,B2B
+1450,Centro,Fedeli
+1451,Sud,Fedeli
+1452,Centro,Alto spendenti
+1453,Centro,Alto spendenti
+1454,Nord,B2B
+1455,Nord,Alto spendenti
+1456,Centro,Nuovi
+1457,Sud,Alto spendenti
+1458,Sud,Fedeli
+1459,Centro,Alto spendenti
+1460,Centro,Alto spendenti
+1461,Sud,Alto spendenti
+1462,Sud,Fedeli
+1463,Nord,Alto spendenti
+1464,Centro,Alto spendenti
+1465,Centro,Fedeli
+1466,Nord,Nuovi
+1467,Centro,Alto spendenti
+1468,Centro,B2B
+1469,Sud,Fedeli
+1470,Sud,Alto spendenti
+1471,Nord,B2B
+1472,Centro,Fedeli
+1473,Centro,Alto spendenti
+1474,Centro,Alto spendenti
+1475,Sud,Fedeli
+1476,Centro,B2B
+1477,Sud,Alto spendenti
+1478,Sud,Nuovi
+1479,Sud,Fedeli
+1480,Nord,Fedeli
+1481,Sud,Alto spendenti
+1482,Sud,Alto spendenti
+1483,Sud,Alto spendenti
+1484,Sud,Alto spendenti
+1485,Centro,Nuovi
+1486,Sud,Fedeli
+1487,Nord,Nuovi
+1488,Sud,B2B
+1489,Sud,B2B
+1490,Sud,Nuovi
+1491,Nord,Alto spendenti
+1492,Nord,B2B
+1493,Nord,Fedeli
+1494,Nord,Fedeli
+1495,Centro,B2B
+1496,Sud,Nuovi
+1497,Sud,Nuovi
+1498,Sud,Fedeli
+1499,Centro,Alto spendenti
+1500,Centro,B2B
+1501,Centro,Fedeli
+1502,Nord,Fedeli
+1503,Nord,B2B
+1504,Centro,B2B
+1505,Sud,Fedeli
+1506,Centro,Fedeli
+1507,Nord,Fedeli
+1508,Nord,Nuovi
+1509,Centro,Fedeli
+1510,Sud,Nuovi
+1511,Nord,Nuovi
+1512,Nord,Alto spendenti
+1513,Nord,B2B
+1514,Centro,Alto spendenti
+1515,Sud,Fedeli
+1516,Centro,Fedeli
+1517,Centro,Fedeli
+1518,Centro,B2B
+1519,Nord,Nuovi
+1520,Centro,Alto spendenti
+1521,Centro,Fedeli
+1522,Sud,B2B
+1523,Centro,B2B
+1524,Sud,B2B
+1525,Centro,Nuovi
+1526,Sud,Alto spendenti
+1527,Nord,B2B
+1528,Sud,Nuovi
+1529,Nord,B2B
+1530,Sud,Nuovi
+1531,Nord,B2B
+1532,Sud,Alto spendenti
+1533,Centro,Nuovi
+1534,Centro,Alto spendenti
+1535,Sud,B2B
+1536,Nord,Nuovi
+1537,Centro,Alto spendenti
+1538,Sud,Nuovi
+1539,Nord,Fedeli
+1540,Nord,Alto spendenti
+1541,Nord,Alto spendenti
+1542,Sud,Fedeli
+1543,Centro,B2B
+1544,Sud,Fedeli
+1545,Sud,B2B
+1546,Sud,B2B
+1547,Sud,Alto spendenti
+1548,Centro,Nuovi
+1549,Sud,B2B
+1550,Centro,Fedeli
+1551,Nord,B2B
+1552,Nord,Nuovi
+1553,Centro,B2B
+1554,Sud,Alto spendenti
+1555,Centro,Nuovi
+1556,Nord,Alto spendenti
+1557,Sud,Nuovi
+1558,Nord,B2B
+1559,Centro,Nuovi
+1560,Sud,Alto spendenti
+1561,Nord,B2B
+1562,Nord,Nuovi
+1563,Nord,Nuovi
+1564,Centro,Nuovi
+1565,Sud,Fedeli
+1566,Centro,Alto spendenti
+1567,Nord,Alto spendenti
+1568,Centro,Fedeli
+1569,Centro,B2B
+1570,Nord,Fedeli
+1571,Centro,Fedeli
+1572,Nord,Fedeli
+1573,Nord,Alto spendenti
+1574,Sud,Fedeli
+1575,Centro,Alto spendenti
+1576,Sud,Nuovi
+1577,Sud,Nuovi
+1578,Nord,Alto spendenti
+1579,Sud,B2B
+1580,Sud,Nuovi
+1581,Sud,Fedeli
+1582,Centro,Nuovi
+1583,Sud,Nuovi
+1584,Sud,Nuovi
+1585,Centro,Nuovi
+1586,Centro,Fedeli
+1587,Nord,Nuovi
+1588,Centro,Nuovi
+1589,Nord,Alto spendenti
+1590,Centro,Alto spendenti
+1591,Sud,Fedeli
+1592,Centro,Fedeli
+1593,Nord,Fedeli
+1594,Nord,B2B
+1595,Sud,Alto spendenti
+1596,Sud,B2B
+1597,Sud,Alto spendenti
+1598,Centro,B2B
+1599,Nord,B2B
+1600,Nord,Fedeli
+1601,Centro,Nuovi
+1602,Centro,Alto spendenti
+1603,Nord,B2B
+1604,Centro,Nuovi
+1605,Sud,Fedeli
+1606,Sud,Alto spendenti
+1607,Sud,Nuovi
+1608,Centro,Fedeli
+1609,Centro,Nuovi
+1610,Sud,B2B
+1611,Centro,B2B
+1612,Sud,Nuovi
+1613,Nord,Nuovi
+1614,Sud,B2B
+1615,Sud,Nuovi
+1616,Sud,Nuovi
+1617,Centro,Alto spendenti
+1618,Sud,Fedeli
+1619,Nord,Alto spendenti
+1620,Centro,Alto spendenti
+1621,Centro,B2B
+1622,Sud,B2B
+1623,Nord,B2B
+1624,Centro,B2B
+1625,Sud,Alto spendenti
+1626,Sud,Alto spendenti
+1627,Sud,Fedeli
+1628,Nord,Alto spendenti
+1629,Nord,Alto spendenti
+1630,Sud,Alto spendenti
+1631,Sud,Alto spendenti
+1632,Nord,Nuovi
+1633,Sud,Nuovi
+1634,Centro,Nuovi
+1635,Centro,Nuovi
+1636,Sud,Alto spendenti
+1637,Sud,Nuovi
+1638,Sud,B2B
+1639,Nord,Alto spendenti
+1640,Centro,B2B
+1641,Centro,Alto spendenti
+1642,Nord,Fedeli
+1643,Centro,Nuovi
+1644,Sud,Alto spendenti
+1645,Sud,Nuovi
+1646,Centro,B2B
+1647,Centro,Nuovi
+1648,Centro,B2B
+1649,Centro,Alto spendenti
+1650,Centro,B2B
+1651,Centro,Alto spendenti
+1652,Centro,Fedeli
+1653,Centro,Nuovi
+1654,Nord,Alto spendenti
+1655,Sud,Fedeli
+1656,Nord,Alto spendenti
+1657,Centro,Nuovi
+1658,Centro,Fedeli
+1659,Sud,Fedeli
+1660,Nord,B2B
+1661,Nord,Alto spendenti
+1662,Centro,Nuovi
+1663,Nord,Alto spendenti
+1664,Centro,Nuovi
+1665,Sud,Nuovi
+1666,Sud,B2B
+1667,Centro,B2B
+1668,Centro,Nuovi
+1669,Centro,B2B
+1670,Sud,B2B
+1671,Sud,Nuovi
+1672,Centro,Fedeli
+1673,Nord,Nuovi
+1674,Centro,Nuovi
+1675,Centro,B2B
+1676,Centro,B2B
+1677,Nord,Nuovi
+1678,Sud,B2B
+1679,Centro,Fedeli
+1680,Sud,Fedeli
+1681,Sud,Fedeli
+1682,Sud,Fedeli
+1683,Nord,Nuovi
+1684,Nord,Alto spendenti
+1685,Sud,Nuovi
+1686,Sud,Nuovi
+1687,Sud,B2B
+1688,Sud,Alto spendenti
+1689,Centro,B2B
+1690,Sud,B2B
+1691,Sud,B2B
+1692,Sud,Nuovi
+1693,Centro,Alto spendenti
+1694,Centro,B2B
+1695,Nord,B2B
+1696,Nord,Alto spendenti
+1697,Centro,B2B
+1698,Centro,Fedeli
+1699,Nord,Alto spendenti
+1700,Nord,Nuovi
+1701,Centro,Nuovi
+1702,Sud,Alto spendenti
+1703,Centro,B2B
+1704,Nord,Alto spendenti
+1705,Centro,B2B
+1706,Nord,B2B
+1707,Nord,Fedeli
+1708,Sud,Fedeli
+1709,Nord,B2B
+1710,Nord,B2B
+1711,Nord,Fedeli
+1712,Nord,Fedeli
+1713,Nord,B2B
+1714,Centro,Fedeli
+1715,Centro,Alto spendenti
+1716,Nord,Nuovi
+1717,Centro,Alto spendenti
+1718,Centro,B2B
+1719,Centro,Nuovi
+1720,Sud,B2B
+1721,Sud,Fedeli
+1722,Centro,Nuovi
+1723,Nord,Alto spendenti
+1724,Centro,Alto spendenti
+1725,Sud,Alto spendenti
+1726,Centro,B2B
+1727,Nord,Nuovi
+1728,Nord,Fedeli
+1729,Centro,Fedeli
+1730,Centro,Fedeli
+1731,Nord,Fedeli
+1732,Nord,Alto spendenti
+1733,Sud,B2B
+1734,Centro,B2B
+1735,Centro,B2B
+1736,Centro,B2B
+1737,Centro,Nuovi
+1738,Nord,Fedeli
+1739,Sud,Nuovi
+1740,Sud,Nuovi
+1741,Nord,B2B
+1742,Sud,B2B
+1743,Centro,Fedeli
+1744,Centro,Nuovi
+1745,Nord,Fedeli
+1746,Nord,B2B
+1747,Nord,B2B
+1748,Centro,Alto spendenti
+1749,Centro,B2B
+1750,Sud,B2B
+1751,Nord,B2B
+1752,Centro,Fedeli
+1753,Nord,Fedeli
+1754,Sud,Nuovi
+1755,Nord,B2B
+1756,Nord,Nuovi
+1757,Centro,Alto spendenti
+1758,Sud,Alto spendenti
+1759,Sud,B2B
+1760,Sud,B2B
+1761,Nord,Nuovi
+1762,Centro,Alto spendenti
+1763,Centro,Alto spendenti
+1764,Sud,Alto spendenti
+1765,Nord,Fedeli
+1766,Sud,Nuovi
+1767,Sud,Nuovi
+1768,Nord,B2B
+1769,Centro,Fedeli
+1770,Sud,Alto spendenti
+1771,Nord,Alto spendenti
+1772,Sud,Fedeli
+1773,Centro,Fedeli
+1774,Nord,Alto spendenti
+1775,Nord,Fedeli
+1776,Nord,Fedeli
+1777,Nord,Fedeli
+1778,Sud,Nuovi
+1779,Nord,Alto spendenti
+1780,Centro,B2B
+1781,Nord,Nuovi
+1782,Sud,Alto spendenti
+1783,Sud,B2B
+1784,Sud,Nuovi
+1785,Sud,Alto spendenti
+1786,Centro,Nuovi
+1787,Sud,Nuovi
+1788,Sud,Fedeli
+1789,Nord,Fedeli
+1790,Sud,Nuovi
+1791,Sud,B2B
+1792,Nord,Alto spendenti
+1793,Centro,Nuovi
+1794,Centro,Alto spendenti
+1795,Sud,Fedeli
+1796,Centro,Nuovi
+1797,Nord,Alto spendenti
+1798,Centro,Nuovi
+1799,Nord,B2B
+1800,Centro,Nuovi
+1801,Nord,Nuovi
+1802,Sud,Nuovi
+1803,Centro,B2B
+1804,Centro,Alto spendenti
+1805,Nord,Alto spendenti
+1806,Nord,Alto spendenti
+1807,Nord,B2B
+1808,Centro,B2B
+1809,Centro,Fedeli
+1810,Nord,B2B
+1811,Nord,B2B
+1812,Sud,Alto spendenti
+1813,Centro,Fedeli
+1814,Nord,Fedeli
+1815,Centro,Fedeli
+1816,Nord,Fedeli
+1817,Nord,Alto spendenti
+1818,Nord,Fedeli
+1819,Nord,Alto spendenti
+1820,Centro,B2B
+1821,Sud,Alto spendenti
+1822,Centro,B2B
+1823,Sud,B2B
+1824,Sud,Alto spendenti
+1825,Sud,Alto spendenti
+1826,Nord,B2B
+1827,Sud,B2B
+1828,Nord,Nuovi
+1829,Sud,Alto spendenti
+1830,Nord,B2B
+1831,Nord,B2B
+1832,Sud,B2B
+1833,Centro,Fedeli
+1834,Sud,Nuovi
+1835,Nord,Alto spendenti
+1836,Sud,B2B
+1837,Sud,B2B
+1838,Nord,Nuovi
+1839,Sud,B2B
+1840,Sud,Fedeli
+1841,Centro,Nuovi
+1842,Sud,Fedeli
+1843,Nord,Alto spendenti
+1844,Nord,B2B
+1845,Nord,B2B
+1846,Sud,Alto spendenti
+1847,Sud,B2B
+1848,Nord,B2B
+1849,Centro,Alto spendenti
+1850,Sud,Alto spendenti
+1851,Sud,Nuovi
+1852,Centro,Fedeli
+1853,Nord,Nuovi
+1854,Sud,Nuovi
+1855,Sud,Nuovi
+1856,Centro,B2B
+1857,Sud,B2B
+1858,Sud,Nuovi
+1859,Nord,Fedeli
+1860,Centro,Nuovi
+1861,Sud,Alto spendenti
+1862,Nord,Fedeli
+1863,Sud,Alto spendenti
+1864,Sud,B2B
+1865,Sud,Fedeli
+1866,Nord,Fedeli
+1867,Nord,B2B
+1868,Nord,B2B
+1869,Sud,Alto spendenti
+1870,Sud,Alto spendenti
+1871,Centro,Fedeli
+1872,Centro,Alto spendenti
+1873,Centro,B2B
+1874,Sud,Nuovi
+1875,Nord,Fedeli
+1876,Centro,B2B
+1877,Nord,Alto spendenti
+1878,Nord,B2B
+1879,Nord,B2B
+1880,Nord,Fedeli
+1881,Centro,Alto spendenti
+1882,Sud,B2B
+1883,Nord,Nuovi
+1884,Sud,Nuovi
+1885,Nord,Alto spendenti
+1886,Nord,B2B
+1887,Nord,B2B
+1888,Nord,B2B
+1889,Centro,Fedeli
+1890,Centro,Alto spendenti
+1891,Sud,Nuovi
+1892,Sud,Fedeli
+1893,Nord,Alto spendenti
+1894,Sud,Alto spendenti
+1895,Centro,Alto spendenti
+1896,Centro,Alto spendenti
+1897,Nord,Nuovi
+1898,Nord,Alto spendenti
+1899,Centro,Fedeli
+1900,Nord,Alto spendenti
+1901,Sud,Alto spendenti
+1902,Sud,Alto spendenti
+1903,Centro,B2B
+1904,Centro,Alto spendenti
+1905,Centro,Fedeli
+1906,Centro,Alto spendenti
+1907,Sud,Alto spendenti
+1908,Nord,Nuovi
+1909,Nord,B2B
+1910,Centro,Nuovi
+1911,Centro,B2B
+1912,Sud,B2B
+1913,Nord,B2B
+1914,Nord,Alto spendenti
+1915,Centro,Nuovi
+1916,Sud,Nuovi
+1917,Sud,B2B
+1918,Centro,B2B
+1919,Centro,B2B
+1920,Sud,B2B
+1921,Sud,B2B
+1922,Sud,Fedeli
+1923,Sud,Fedeli
+1924,Sud,Alto spendenti
+1925,Centro,B2B
+1926,Nord,B2B
+1927,Sud,Fedeli
+1928,Nord,B2B
+1929,Centro,Alto spendenti
+1930,Nord,Fedeli
+1931,Centro,B2B
+1932,Sud,Alto spendenti
+1933,Sud,Alto spendenti
+1934,Nord,Fedeli
+1935,Nord,Fedeli
+1936,Centro,Fedeli
+1937,Nord,Fedeli
+1938,Sud,Nuovi
+1939,Centro,Alto spendenti
+1940,Nord,B2B
+1941,Nord,Fedeli
+1942,Nord,Fedeli
+1943,Nord,B2B
+1944,Sud,Fedeli
+1945,Sud,Alto spendenti
+1946,Centro,Nuovi
+1947,Nord,Alto spendenti
+1948,Nord,Alto spendenti
+1949,Sud,Fedeli
+1950,Nord,Alto spendenti
+1951,Sud,Nuovi
+1952,Centro,Fedeli
+1953,Centro,B2B
+1954,Nord,Fedeli
+1955,Centro,Alto spendenti
+1956,Sud,Nuovi
+1957,Sud,Alto spendenti
+1958,Nord,Nuovi
+1959,Nord,B2B
+1960,Nord,Nuovi
+1961,Nord,Fedeli
+1962,Sud,B2B
+1963,Sud,Alto spendenti
+1964,Nord,Fedeli
+1965,Sud,Nuovi
+1966,Centro,B2B
+1967,Sud,B2B
+1968,Nord,Fedeli
+1969,Centro,B2B
+1970,Centro,Nuovi
+1971,Centro,Alto spendenti
+1972,Centro,B2B
+1973,Centro,Alto spendenti
+1974,Sud,B2B
+1975,Centro,Fedeli
+1976,Sud,Alto spendenti
+1977,Nord,Fedeli
+1978,Nord,B2B
+1979,Centro,Fedeli
+1980,Nord,Fedeli
+1981,Centro,B2B
+1982,Centro,Nuovi
+1983,Sud,Fedeli
+1984,Centro,Nuovi
+1985,Nord,Alto spendenti
+1986,Centro,B2B
+1987,Centro,Fedeli
+1988,Nord,Nuovi
+1989,Nord,Fedeli
+1990,Nord,Nuovi
+1991,Sud,Alto spendenti
+1992,Nord,Fedeli
+1993,Centro,B2B
+1994,Nord,Fedeli
+1995,Sud,Alto spendenti
+1996,Sud,Alto spendenti
+1997,Nord,B2B
+1998,Centro,Alto spendenti
+1999,Sud,B2B
+2000,Nord,Fedeli
+2001,Sud,Fedeli
+2002,Centro,B2B
+2003,Nord,Nuovi
+2004,Nord,Fedeli
+2005,Centro,Fedeli
+2006,Nord,Alto spendenti
+2007,Nord,Alto spendenti
+2008,Nord,B2B
+2009,Nord,B2B
+2010,Nord,Alto spendenti
+2011,Nord,Nuovi
+2012,Sud,B2B
+2013,Centro,Alto spendenti
+2014,Centro,Nuovi
+2015,Sud,B2B
+2016,Nord,Nuovi
+2017,Sud,Nuovi
+2018,Sud,Nuovi
+2019,Sud,Alto spendenti
+2020,Sud,Fedeli
+2021,Sud,Fedeli
+2022,Nord,Alto spendenti
+2023,Centro,Fedeli
+2024,Centro,Fedeli
+2025,Nord,Alto spendenti
+2026,Sud,Fedeli
+2027,Nord,Fedeli
+2028,Sud,Fedeli
+2029,Centro,B2B
+2030,Centro,Fedeli
+2031,Sud,Nuovi
+2032,Nord,Alto spendenti
+2033,Nord,Alto spendenti
+2034,Centro,B2B
+2035,Nord,B2B
+2036,Nord,B2B
+2037,Centro,Nuovi
+2038,Sud,Nuovi
+2039,Sud,Alto spendenti
+2040,Centro,B2B
+2041,Centro,B2B
+2042,Nord,Nuovi
+2043,Nord,B2B
+2044,Sud,B2B
+2045,Sud,Alto spendenti
+2046,Nord,Nuovi
+2047,Sud,Fedeli
+2048,Nord,B2B
+2049,Nord,Fedeli
+2050,Nord,Fedeli
+2051,Sud,Fedeli
+2052,Sud,Nuovi
+2053,Nord,Alto spendenti
+2054,Sud,B2B
+2055,Sud,B2B
+2056,Centro,Fedeli
+2057,Sud,Nuovi
+2058,Sud,Fedeli
+2059,Centro,Nuovi
+2060,Nord,Fedeli
+2061,Nord,Alto spendenti
+2062,Sud,Nuovi
+2063,Centro,B2B
+2064,Sud,Alto spendenti
+2065,Sud,Fedeli
+2066,Centro,Nuovi
+2067,Centro,Nuovi
+2068,Nord,B2B
+2069,Nord,Alto spendenti
+2070,Nord,Fedeli
+2071,Nord,Fedeli
+2072,Nord,Nuovi
+2073,Nord,B2B
+2074,Sud,Alto spendenti
+2075,Sud,Nuovi
+2076,Centro,Nuovi
+2077,Sud,Fedeli
+2078,Sud,Alto spendenti
+2079,Centro,Alto spendenti
+2080,Nord,B2B
+2081,Nord,Nuovi
+2082,Centro,Fedeli
+2083,Centro,Alto spendenti
+2084,Sud,Fedeli
+2085,Nord,Alto spendenti
+2086,Nord,B2B
+2087,Sud,Fedeli
+2088,Sud,Fedeli
+2089,Sud,Alto spendenti
+2090,Centro,Fedeli
+2091,Centro,Nuovi
+2092,Nord,Alto spendenti
+2093,Centro,B2B
+2094,Centro,Alto spendenti
+2095,Nord,B2B
+2096,Sud,Fedeli
+2097,Centro,Nuovi
+2098,Centro,Nuovi
+2099,Sud,Alto spendenti
+2100,Centro,Nuovi
+2101,Centro,B2B
+2102,Centro,B2B
+2103,Centro,Alto spendenti
+2104,Nord,B2B
+2105,Nord,Nuovi
+2106,Centro,B2B
+2107,Centro,Alto spendenti
+2108,Centro,B2B
+2109,Centro,Alto spendenti
+2110,Centro,Alto spendenti
+2111,Sud,Alto spendenti
+2112,Sud,B2B
+2113,Centro,Nuovi
+2114,Sud,Alto spendenti
+2115,Centro,Fedeli
+2116,Centro,Fedeli
+2117,Centro,Alto spendenti
+2118,Sud,B2B
+2119,Sud,B2B
+2120,Sud,Alto spendenti
+2121,Centro,B2B
+2122,Nord,Fedeli
+2123,Centro,Alto spendenti
+2124,Centro,Alto spendenti
+2125,Centro,B2B
+2126,Sud,Fedeli
+2127,Centro,Fedeli
+2128,Nord,B2B
+2129,Sud,Nuovi
+2130,Sud,B2B
+2131,Nord,Alto spendenti
+2132,Nord,Nuovi
+2133,Centro,Nuovi
+2134,Centro,Alto spendenti
+2135,Centro,Nuovi
+2136,Sud,Fedeli
+2137,Centro,Alto spendenti
+2138,Nord,Nuovi
+2139,Nord,Alto spendenti
+2140,Nord,Fedeli
+2141,Nord,B2B
+2142,Nord,Fedeli
+2143,Centro,Nuovi
+2144,Centro,B2B
+2145,Nord,Alto spendenti
+2146,Centro,Fedeli
+2147,Nord,Fedeli
+2148,Sud,Fedeli
+2149,Centro,Alto spendenti
+2150,Centro,B2B
+2151,Nord,Alto spendenti
+2152,Nord,Alto spendenti
+2153,Sud,Alto spendenti
+2154,Nord,Nuovi
+2155,Nord,Nuovi
+2156,Sud,B2B
+2157,Nord,Nuovi
+2158,Centro,Nuovi
+2159,Sud,B2B
+2160,Sud,B2B
+2161,Nord,Nuovi
+2162,Nord,Nuovi
+2163,Sud,Fedeli
+2164,Nord,B2B
+2165,Sud,Alto spendenti
+2166,Nord,Alto spendenti
+2167,Centro,Nuovi
+2168,Nord,Fedeli
+2169,Nord,B2B
+2170,Sud,Fedeli
+2171,Centro,Nuovi
+2172,Nord,Fedeli
+2173,Nord,Nuovi
+2174,Nord,Fedeli
+2175,Nord,Fedeli
+2176,Sud,B2B
+2177,Nord,B2B
+2178,Sud,Fedeli
+2179,Centro,Nuovi
+2180,Nord,Alto spendenti
+2181,Sud,Nuovi
+2182,Sud,B2B
+2183,Nord,Nuovi
+2184,Sud,Fedeli
+2185,Centro,Alto spendenti
+2186,Sud,B2B
+2187,Centro,Nuovi
+2188,Nord,Nuovi
+2189,Centro,Nuovi
+2190,Nord,Fedeli
+2191,Nord,Nuovi
+2192,Centro,Alto spendenti
+2193,Nord,B2B
+2194,Nord,Alto spendenti
+2195,Nord,Alto spendenti
+2196,Nord,Nuovi
+2197,Sud,Nuovi
+2198,Sud,Fedeli
+2199,Centro,Nuovi
+2200,Nord,Alto spendenti
+2201,Sud,Nuovi
+2202,Sud,Fedeli
+2203,Centro,B2B
+2204,Centro,Fedeli
+2205,Sud,B2B
+2206,Centro,Fedeli
+2207,Centro,Nuovi
+2208,Nord,B2B
+2209,Nord,Alto spendenti
+2210,Nord,Fedeli
+2211,Nord,Nuovi
+2212,Sud,B2B
+2213,Nord,Nuovi
+2214,Nord,Alto spendenti
+2215,Centro,Alto spendenti
+2216,Nord,Nuovi
+2217,Nord,Nuovi
+2218,Sud,Fedeli
+2219,Nord,Nuovi
+2220,Centro,Nuovi
+2221,Centro,Alto spendenti
+2222,Nord,B2B
+2223,Centro,Alto spendenti
+2224,Nord,Nuovi
+2225,Sud,Fedeli
+2226,Sud,Nuovi
+2227,Sud,Fedeli
+2228,Nord,Alto spendenti
+2229,Nord,B2B
+2230,Centro,B2B
+2231,Centro,Alto spendenti
+2232,Centro,Nuovi
+2233,Sud,Fedeli
+2234,Centro,Nuovi
+2235,Nord,Alto spendenti
+2236,Nord,Alto spendenti
+2237,Sud,Nuovi
+2238,Nord,Alto spendenti
+2239,Centro,Nuovi
+2240,Centro,Nuovi
+2241,Nord,Alto spendenti
+2242,Centro,Alto spendenti
+2243,Nord,Fedeli
+2244,Sud,Fedeli
+2245,Sud,B2B
+2246,Nord,Fedeli
+2247,Sud,Nuovi
+2248,Nord,Alto spendenti
+2249,Centro,B2B
+2250,Centro,Fedeli
+2251,Nord,Fedeli
+2252,Nord,Fedeli
+2253,Sud,B2B
+2254,Nord,Alto spendenti
+2255,Nord,Fedeli
+2256,Centro,B2B
+2257,Nord,Fedeli
+2258,Centro,Nuovi
+2259,Centro,Alto spendenti
+2260,Centro,Alto spendenti
+2261,Sud,B2B
+2262,Centro,B2B
+2263,Nord,Alto spendenti
+2264,Centro,Fedeli
+2265,Centro,Nuovi
+2266,Centro,B2B
+2267,Centro,Nuovi
+2268,Centro,Alto spendenti
+2269,Sud,Alto spendenti
+2270,Sud,Nuovi
+2271,Sud,B2B
+2272,Sud,Fedeli
+2273,Nord,Fedeli
+2274,Sud,Alto spendenti
+2275,Nord,Alto spendenti
+2276,Sud,Alto spendenti
+2277,Nord,Fedeli
+2278,Nord,Fedeli
+2279,Nord,Alto spendenti
+2280,Centro,Alto spendenti
+2281,Nord,Alto spendenti
+2282,Sud,Alto spendenti
+2283,Centro,Nuovi
+2284,Sud,B2B
+2285,Sud,Nuovi
+2286,Nord,B2B
+2287,Nord,Fedeli
+2288,Nord,Alto spendenti
+2289,Sud,Fedeli
+2290,Nord,Fedeli
+2291,Centro,Nuovi
+2292,Nord,Nuovi
+2293,Nord,Fedeli
+2294,Centro,B2B
+2295,Sud,Nuovi
+2296,Centro,Fedeli
+2297,Sud,Nuovi
+2298,Centro,B2B
+2299,Centro,B2B
+2300,Centro,Fedeli
+2301,Sud,B2B
+2302,Centro,Alto spendenti
+2303,Centro,B2B
+2304,Nord,Alto spendenti
+2305,Centro,Nuovi
+2306,Nord,Alto spendenti
+2307,Sud,Fedeli
+2308,Nord,B2B
+2309,Nord,Nuovi
+2310,Nord,Nuovi
+2311,Nord,Alto spendenti
+2312,Nord,Alto spendenti
+2313,Nord,Alto spendenti
+2314,Nord,Alto spendenti
+2315,Nord,Fedeli
+2316,Nord,Alto spendenti
+2317,Centro,Alto spendenti
+2318,Nord,Nuovi
+2319,Nord,Alto spendenti
+2320,Nord,B2B
+2321,Sud,Alto spendenti
+2322,Nord,Fedeli
+2323,Centro,Nuovi
+2324,Centro,Alto spendenti
+2325,Sud,Fedeli
+2326,Centro,Nuovi
+2327,Centro,Nuovi
+2328,Centro,Nuovi
+2329,Nord,Fedeli
+2330,Centro,Nuovi
+2331,Nord,B2B
+2332,Centro,Fedeli
+2333,Nord,Nuovi
+2334,Centro,Fedeli
+2335,Centro,Fedeli
+2336,Sud,Fedeli
+2337,Centro,B2B
+2338,Nord,Alto spendenti
+2339,Centro,Alto spendenti
+2340,Nord,B2B
+2341,Nord,Nuovi
+2342,Centro,Nuovi
+2343,Nord,Nuovi
+2344,Centro,B2B
+2345,Sud,B2B
+2346,Sud,Fedeli
+2347,Sud,B2B
+2348,Centro,Alto spendenti
+2349,Nord,Alto spendenti
+2350,Centro,Nuovi
+2351,Sud,B2B
+2352,Centro,Fedeli
+2353,Centro,B2B
+2354,Sud,Alto spendenti
+2355,Nord,Alto spendenti
+2356,Centro,Fedeli
+2357,Nord,Fedeli
+2358,Nord,Nuovi
+2359,Centro,Fedeli
+2360,Centro,Nuovi
+2361,Sud,Nuovi
+2362,Nord,Nuovi
+2363,Sud,Alto spendenti
+2364,Centro,Fedeli
+2365,Nord,Fedeli
+2366,Centro,Fedeli
+2367,Centro,Fedeli
+2368,Sud,Alto spendenti
+2369,Nord,Alto spendenti
+2370,Nord,Alto spendenti
+2371,Nord,Fedeli
+2372,Centro,B2B
+2373,Nord,Alto spendenti
+2374,Nord,Nuovi
+2375,Sud,Alto spendenti
+2376,Nord,Fedeli
+2377,Nord,B2B
+2378,Nord,Alto spendenti
+2379,Nord,Fedeli
+2380,Nord,Nuovi
+2381,Centro,B2B
+2382,Sud,Fedeli
+2383,Nord,Fedeli
+2384,Nord,Alto spendenti
+2385,Sud,Nuovi
+2386,Nord,B2B
+2387,Sud,Fedeli
+2388,Nord,Fedeli
+2389,Nord,Fedeli
+2390,Nord,Fedeli
+2391,Nord,Alto spendenti
+2392,Nord,B2B
+2393,Sud,Fedeli
+2394,Sud,B2B
+2395,Sud,Alto spendenti
+2396,Nord,Fedeli
+2397,Nord,Nuovi
+2398,Centro,Nuovi
+2399,Centro,Nuovi
+2400,Sud,Nuovi
+2401,Sud,Nuovi
+2402,Nord,B2B
+2403,Centro,Nuovi
+2404,Nord,B2B
+2405,Sud,Alto spendenti
+2406,Nord,Fedeli
+2407,Sud,Nuovi
+2408,Nord,B2B
+2409,Sud,Nuovi
+2410,Sud,Fedeli
+2411,Nord,Fedeli
+2412,Nord,Nuovi
+2413,Sud,Fedeli
+2414,Nord,B2B
+2415,Nord,Nuovi
+2416,Nord,B2B
+2417,Sud,B2B
+2418,Sud,B2B
+2419,Centro,Fedeli
+2420,Centro,Nuovi
+2421,Nord,B2B
+2422,Sud,Alto spendenti
+2423,Centro,Fedeli
+2424,Sud,Fedeli
+2425,Sud,Nuovi
+2426,Sud,Alto spendenti
+2427,Sud,B2B
+2428,Sud,Alto spendenti
+2429,Centro,Alto spendenti
+2430,Sud,Fedeli
+2431,Centro,Fedeli
+2432,Centro,B2B
+2433,Sud,B2B
+2434,Sud,B2B
+2435,Sud,B2B
+2436,Nord,Fedeli
+2437,Nord,Nuovi
+2438,Centro,Nuovi
+2439,Sud,B2B
+2440,Sud,B2B
+2441,Sud,Fedeli
+2442,Nord,Fedeli
+2443,Sud,Fedeli
+2444,Centro,B2B
+2445,Centro,Alto spendenti
+2446,Sud,B2B
+2447,Sud,Alto spendenti
+2448,Nord,Fedeli
+2449,Sud,B2B
+2450,Centro,B2B
+2451,Sud,B2B
+2452,Nord,Alto spendenti
+2453,Sud,Nuovi
+2454,Centro,B2B
+2455,Nord,B2B
+2456,Centro,Fedeli
+2457,Centro,Fedeli
+2458,Nord,B2B
+2459,Nord,Alto spendenti
+2460,Centro,Fedeli
+2461,Nord,B2B
+2462,Nord,Nuovi
+2463,Centro,Alto spendenti
+2464,Sud,B2B
+2465,Centro,Nuovi
+2466,Centro,Alto spendenti
+2467,Nord,Fedeli
+2468,Centro,Nuovi
+2469,Nord,B2B
+2470,Centro,Alto spendenti
+2471,Sud,Alto spendenti
+2472,Nord,Fedeli
+2473,Nord,Fedeli
+2474,Nord,B2B
+2475,Nord,B2B
+2476,Centro,Nuovi
+2477,Centro,Fedeli
+2478,Centro,Fedeli
+2479,Centro,Alto spendenti
+2480,Nord,Alto spendenti
+2481,Sud,B2B
+2482,Nord,Alto spendenti
+2483,Centro,Alto spendenti
+2484,Centro,B2B
+2485,Sud,Fedeli
+2486,Sud,Alto spendenti
+2487,Sud,Nuovi
+2488,Centro,Alto spendenti
+2489,Nord,Fedeli
+2490,Sud,Nuovi
+2491,Nord,Fedeli
+2492,Centro,Nuovi
+2493,Centro,Fedeli
+2494,Centro,B2B
+2495,Sud,B2B
+2496,Nord,Nuovi
+2497,Centro,Alto spendenti
+2498,Centro,B2B
+2499,Sud,Fedeli
+2500,Nord,Fedeli
+2501,Sud,Fedeli
+2502,Centro,Fedeli
+2503,Sud,B2B
+2504,Nord,B2B
+2505,Nord,Nuovi
+2506,Centro,Alto spendenti
+2507,Nord,Nuovi
+2508,Sud,B2B
+2509,Sud,Fedeli
+2510,Centro,B2B
+2511,Nord,B2B
+2512,Sud,Fedeli
+2513,Centro,Nuovi
+2514,Sud,Fedeli
+2515,Nord,Alto spendenti
+2516,Sud,Alto spendenti
+2517,Centro,Nuovi
+2518,Nord,B2B
+2519,Centro,Alto spendenti
+2520,Centro,B2B
+2521,Centro,B2B
+2522,Sud,Fedeli
+2523,Centro,Fedeli
+2524,Nord,B2B
+2525,Nord,Alto spendenti
+2526,Sud,Nuovi
+2527,Nord,Alto spendenti
+2528,Nord,Nuovi
+2529,Centro,Nuovi
+2530,Centro,Alto spendenti
+2531,Centro,Nuovi
+2532,Sud,Fedeli
+2533,Centro,Fedeli
+2534,Nord,B2B
+2535,Sud,Fedeli
+2536,Nord,Nuovi
+2537,Centro,Nuovi
+2538,Nord,Alto spendenti
+2539,Centro,B2B
+2540,Nord,Alto spendenti
+2541,Centro,Fedeli
+2542,Nord,B2B
+2543,Centro,Fedeli
+2544,Sud,Alto spendenti
+2545,Sud,Fedeli
+2546,Sud,B2B
+2547,Nord,Fedeli
+2548,Centro,B2B
+2549,Nord,Fedeli
+2550,Centro,Alto spendenti
+2551,Nord,Fedeli
+2552,Nord,Fedeli
+2553,Nord,Fedeli
+2554,Centro,Fedeli
+2555,Nord,B2B
+2556,Nord,Alto spendenti
+2557,Sud,Nuovi
+2558,Sud,B2B
+2559,Nord,Alto spendenti
+2560,Centro,Nuovi
+2561,Sud,Alto spendenti
+2562,Sud,Nuovi
+2563,Sud,B2B
+2564,Nord,Fedeli
+2565,Nord,Alto spendenti
+2566,Nord,Alto spendenti
+2567,Sud,Fedeli
+2568,Nord,Alto spendenti
+2569,Centro,Alto spendenti
+2570,Nord,Nuovi
+2571,Sud,Nuovi
+2572,Centro,Fedeli
+2573,Sud,Alto spendenti
+2574,Centro,B2B
+2575,Sud,Fedeli
+2576,Nord,Alto spendenti
+2577,Sud,B2B
+2578,Nord,Fedeli
+2579,Nord,Fedeli
+2580,Centro,Fedeli
+2581,Centro,B2B
+2582,Nord,Fedeli
+2583,Centro,Nuovi
+2584,Sud,Nuovi
+2585,Sud,B2B
+2586,Nord,Alto spendenti
+2587,Centro,B2B
+2588,Nord,Fedeli
+2589,Centro,Nuovi
+2590,Centro,Alto spendenti
+2591,Centro,Fedeli
+2592,Sud,Fedeli
+2593,Sud,B2B
+2594,Nord,Fedeli
+2595,Sud,Fedeli
+2596,Sud,B2B
+2597,Nord,Alto spendenti
+2598,Centro,Alto spendenti
+2599,Centro,Nuovi
+2600,Sud,Alto spendenti
+2601,Centro,Alto spendenti
+2602,Sud,Alto spendenti
+2603,Sud,B2B
+2604,Nord,Nuovi
+2605,Nord,Alto spendenti
+2606,Centro,Alto spendenti
+2607,Sud,B2B
+2608,Sud,B2B
+2609,Nord,Nuovi
+2610,Nord,Nuovi
+2611,Nord,Nuovi
+2612,Nord,Alto spendenti
+2613,Nord,B2B
+2614,Centro,B2B
+2615,Centro,Fedeli
+2616,Nord,B2B
+2617,Centro,Nuovi
+2618,Sud,Fedeli
+2619,Nord,B2B
+2620,Nord,Fedeli
+2621,Centro,Fedeli
+2622,Sud,Nuovi
+2623,Nord,Nuovi
+2624,Centro,Fedeli
+2625,Centro,Nuovi
+2626,Nord,B2B
+2627,Nord,Alto spendenti
+2628,Sud,B2B
+2629,Nord,B2B
+2630,Centro,Nuovi
+2631,Nord,B2B
+2632,Centro,Nuovi
+2633,Centro,Alto spendenti
+2634,Nord,Nuovi
+2635,Sud,Nuovi
+2636,Centro,B2B
+2637,Centro,B2B
+2638,Centro,B2B
+2639,Sud,Fedeli
+2640,Centro,Fedeli
+2641,Sud,Nuovi
+2642,Centro,Nuovi
+2643,Nord,Alto spendenti
+2644,Sud,Alto spendenti
+2645,Sud,Fedeli
+2646,Sud,Alto spendenti
+2647,Nord,B2B
+2648,Centro,Nuovi
+2649,Nord,Fedeli
+2650,Nord,Alto spendenti
+2651,Nord,Alto spendenti
+2652,Sud,B2B
+2653,Sud,Alto spendenti
+2654,Nord,B2B
+2655,Nord,Fedeli
+2656,Centro,Alto spendenti
+2657,Nord,Fedeli
+2658,Nord,Fedeli
+2659,Nord,Fedeli
+2660,Sud,B2B
+2661,Nord,Alto spendenti
+2662,Sud,Fedeli
+2663,Sud,Alto spendenti
+2664,Centro,B2B
+2665,Sud,B2B
+2666,Sud,Nuovi
+2667,Nord,Nuovi
+2668,Centro,Alto spendenti
+2669,Centro,B2B
+2670,Centro,Nuovi
+2671,Nord,Fedeli
+2672,Centro,Alto spendenti
+2673,Centro,Fedeli
+2674,Nord,Nuovi
+2675,Centro,B2B
+2676,Centro,Fedeli
+2677,Centro,Fedeli
+2678,Nord,B2B
+2679,Sud,Nuovi
+2680,Sud,B2B
+2681,Nord,Nuovi
+2682,Nord,B2B
+2683,Nord,Alto spendenti
+2684,Nord,Alto spendenti
+2685,Sud,Nuovi
+2686,Centro,Alto spendenti
+2687,Nord,Nuovi
+2688,Sud,Alto spendenti
+2689,Sud,Nuovi
+2690,Nord,Alto spendenti
+2691,Sud,Nuovi
+2692,Sud,Nuovi
+2693,Centro,Alto spendenti
+2694,Sud,Nuovi
+2695,Nord,Fedeli
+2696,Nord,Alto spendenti
+2697,Nord,Alto spendenti
+2698,Nord,Alto spendenti
+2699,Centro,Alto spendenti
+2700,Centro,Nuovi
+2701,Nord,Fedeli
+2702,Sud,Fedeli
+2703,Centro,B2B
+2704,Centro,B2B
+2705,Nord,Fedeli
+2706,Nord,Fedeli
+2707,Nord,B2B
+2708,Sud,Fedeli
+2709,Sud,B2B
+2710,Sud,Fedeli
+2711,Nord,Fedeli
+2712,Centro,B2B
+2713,Sud,Nuovi
+2714,Nord,Nuovi
+2715,Centro,Fedeli
+2716,Nord,B2B
+2717,Nord,Nuovi
+2718,Centro,B2B
+2719,Sud,Alto spendenti
+2720,Sud,Fedeli
+2721,Sud,Alto spendenti
+2722,Sud,Nuovi
+2723,Sud,Alto spendenti
+2724,Centro,Nuovi
+2725,Nord,Fedeli
+2726,Sud,Nuovi
+2727,Centro,Nuovi
+2728,Centro,B2B
+2729,Centro,Nuovi
+2730,Sud,Nuovi
+2731,Nord,Alto spendenti
+2732,Centro,Nuovi
+2733,Sud,B2B
+2734,Sud,B2B
+2735,Centro,Fedeli
+2736,Nord,Fedeli
+2737,Centro,B2B
+2738,Centro,Fedeli
+2739,Nord,Fedeli
+2740,Nord,Nuovi
+2741,Nord,Alto spendenti
+2742,Centro,Nuovi
+2743,Nord,B2B
+2744,Centro,Alto spendenti
+2745,Sud,Alto spendenti
+2746,Centro,Alto spendenti
+2747,Sud,Alto spendenti
+2748,Sud,Nuovi
+2749,Nord,Nuovi
+2750,Nord,Alto spendenti
+2751,Centro,Alto spendenti
+2752,Nord,Nuovi
+2753,Nord,Fedeli
+2754,Centro,Fedeli
+2755,Sud,Alto spendenti
+2756,Nord,Alto spendenti
+2757,Centro,Fedeli
+2758,Nord,Fedeli
+2759,Centro,B2B
+2760,Sud,Alto spendenti
+2761,Sud,Alto spendenti
+2762,Sud,Alto spendenti
+2763,Sud,B2B
+2764,Sud,Fedeli
+2765,Nord,Alto spendenti
+2766,Nord,Alto spendenti
+2767,Nord,Alto spendenti
+2768,Sud,Fedeli
+2769,Nord,Nuovi
+2770,Centro,B2B
+2771,Sud,Fedeli
+2772,Nord,Alto spendenti
+2773,Centro,Fedeli
+2774,Nord,Nuovi
+2775,Nord,Alto spendenti
+2776,Sud,Fedeli
+2777,Nord,Nuovi
+2778,Sud,B2B
+2779,Sud,Nuovi
+2780,Nord,B2B
+2781,Nord,B2B
+2782,Centro,Fedeli
+2783,Sud,Fedeli
+2784,Nord,B2B
+2785,Nord,Nuovi
+2786,Sud,Alto spendenti
+2787,Sud,B2B
+2788,Nord,Fedeli
+2789,Sud,B2B
+2790,Nord,Fedeli
+2791,Sud,Fedeli
+2792,Sud,Fedeli
+2793,Sud,B2B
+2794,Nord,Nuovi
+2795,Centro,B2B
+2796,Sud,Fedeli
+2797,Centro,Alto spendenti
+2798,Sud,Nuovi
+2799,Sud,Alto spendenti
+2800,Centro,B2B
+2801,Nord,B2B
+2802,Sud,B2B
+2803,Nord,Alto spendenti
+2804,Centro,Alto spendenti
+2805,Nord,Fedeli
+2806,Sud,Alto spendenti
+2807,Sud,Alto spendenti
+2808,Centro,B2B
+2809,Nord,Fedeli
+2810,Centro,Fedeli
+2811,Sud,B2B
+2812,Sud,Fedeli
+2813,Centro,Alto spendenti
+2814,Nord,Fedeli
+2815,Centro,Alto spendenti
+2816,Centro,B2B
+2817,Nord,Fedeli
+2818,Sud,Nuovi
+2819,Nord,Nuovi
+2820,Nord,B2B
+2821,Sud,Fedeli
+2822,Centro,B2B
+2823,Centro,Alto spendenti
+2824,Centro,Fedeli
+2825,Sud,Nuovi
+2826,Centro,Alto spendenti
+2827,Nord,B2B
+2828,Sud,B2B
+2829,Nord,Nuovi
+2830,Nord,B2B
+2831,Sud,Nuovi
+2832,Centro,B2B
+2833,Centro,B2B
+2834,Sud,Fedeli
+2835,Sud,Fedeli
+2836,Sud,B2B
+2837,Centro,Alto spendenti
+2838,Nord,Fedeli
+2839,Centro,Alto spendenti
+2840,Nord,Alto spendenti
+2841,Centro,Nuovi
+2842,Centro,B2B
+2843,Nord,Nuovi
+2844,Nord,B2B
+2845,Nord,Nuovi
+2846,Nord,B2B
+2847,Centro,Nuovi
+2848,Sud,B2B
+2849,Centro,Nuovi
+2850,Sud,Nuovi
+2851,Nord,Fedeli
+2852,Nord,Nuovi
+2853,Centro,B2B
+2854,Centro,Alto spendenti
+2855,Sud,B2B
+2856,Centro,Nuovi
+2857,Centro,Fedeli
+2858,Centro,Fedeli
+2859,Nord,Nuovi
+2860,Nord,Nuovi
+2861,Centro,B2B
+2862,Nord,Alto spendenti
+2863,Nord,Alto spendenti
+2864,Sud,B2B
+2865,Nord,B2B
+2866,Centro,Fedeli
+2867,Sud,Fedeli
+2868,Nord,Nuovi
+2869,Sud,Alto spendenti
+2870,Sud,Alto spendenti
+2871,Nord,Fedeli
+2872,Sud,Nuovi
+2873,Nord,Nuovi
+2874,Centro,Alto spendenti
+2875,Centro,Nuovi
+2876,Centro,Fedeli
+2877,Nord,Fedeli
+2878,Centro,Nuovi
+2879,Centro,B2B
+2880,Sud,B2B
+2881,Centro,B2B
+2882,Sud,Alto spendenti
+2883,Sud,Alto spendenti
+2884,Centro,Alto spendenti
+2885,Nord,B2B
+2886,Nord,Fedeli
+2887,Sud,Nuovi
+2888,Sud,B2B
+2889,Nord,Fedeli
+2890,Sud,B2B
+2891,Nord,Fedeli
+2892,Centro,Alto spendenti
+2893,Sud,Alto spendenti
+2894,Sud,Alto spendenti
+2895,Centro,B2B
+2896,Centro,Alto spendenti
+2897,Centro,Fedeli
+2898,Centro,Alto spendenti
+2899,Nord,Nuovi
+2900,Centro,Alto spendenti
+2901,Centro,B2B
+2902,Nord,B2B
+2903,Sud,B2B
+2904,Centro,Fedeli
+2905,Sud,B2B
+2906,Centro,Nuovi
+2907,Nord,Nuovi
+2908,Sud,Fedeli
+2909,Sud,Nuovi
+2910,Sud,B2B
+2911,Centro,Alto spendenti
+2912,Centro,Alto spendenti
+2913,Centro,Nuovi
+2914,Nord,B2B
+2915,Nord,Nuovi
+2916,Centro,Fedeli
+2917,Sud,Nuovi
+2918,Centro,B2B
+2919,Centro,B2B
+2920,Sud,Alto spendenti
+2921,Nord,Nuovi
+2922,Centro,Nuovi
+2923,Sud,Alto spendenti
+2924,Nord,B2B
+2925,Sud,Alto spendenti
+2926,Centro,Nuovi
+2927,Centro,B2B
+2928,Sud,Fedeli
+2929,Centro,Alto spendenti
+2930,Sud,Nuovi
+2931,Nord,Fedeli
+2932,Centro,Fedeli
+2933,Centro,Alto spendenti
+2934,Sud,Nuovi
+2935,Nord,B2B
+2936,Nord,Fedeli
+2937,Sud,Fedeli
+2938,Sud,B2B
+2939,Centro,B2B
+2940,Sud,Nuovi
+2941,Nord,Fedeli
+2942,Sud,Fedeli
+2943,Nord,Alto spendenti
+2944,Centro,B2B
+2945,Centro,Nuovi
+2946,Sud,B2B
+2947,Nord,B2B
+2948,Centro,B2B
+2949,Centro,Fedeli
+2950,Centro,Fedeli
+2951,Centro,Nuovi
+2952,Sud,B2B
+2953,Centro,Alto spendenti
+2954,Sud,Nuovi
+2955,Nord,Alto spendenti
+2956,Centro,Alto spendenti
+2957,Centro,Nuovi
+2958,Nord,B2B
+2959,Centro,Alto spendenti
+2960,Sud,Alto spendenti
+2961,Centro,B2B
+2962,Centro,Alto spendenti
+2963,Nord,Nuovi
+2964,Centro,Alto spendenti
+2965,Centro,B2B
+2966,Sud,B2B
+2967,Nord,B2B
+2968,Nord,Nuovi
+2969,Nord,B2B
+2970,Centro,B2B
+2971,Nord,B2B
+2972,Nord,B2B
+2973,Centro,B2B
+2974,Sud,B2B
+2975,Nord,B2B
+2976,Sud,Nuovi
+2977,Sud,Nuovi
+2978,Nord,Fedeli
+2979,Nord,B2B
+2980,Nord,B2B
+2981,Centro,Alto spendenti
+2982,Sud,Alto spendenti
+2983,Nord,Alto spendenti
+2984,Sud,Fedeli
+2985,Centro,Alto spendenti
+2986,Nord,Alto spendenti
+2987,Nord,B2B
+2988,Sud,B2B
+2989,Nord,Fedeli
+2990,Nord,B2B
+2991,Nord,Alto spendenti
+2992,Centro,Nuovi
+2993,Sud,B2B
+2994,Centro,Nuovi
+2995,Nord,Nuovi
+2996,Nord,Alto spendenti
+2997,Nord,Alto spendenti
+2998,Nord,Alto spendenti
+2999,Nord,Nuovi
+3000,Centro,Fedeli
+3001,Sud,Alto spendenti
+3002,Nord,Fedeli
+3003,Sud,Fedeli
+3004,Nord,Alto spendenti
+3005,Sud,B2B
+3006,Sud,B2B
+3007,Centro,Nuovi
+3008,Nord,Alto spendenti
+3009,Nord,B2B
+3010,Sud,Alto spendenti
+3011,Sud,B2B
+3012,Sud,Nuovi
+3013,Centro,Alto spendenti
+3014,Centro,Nuovi
+3015,Nord,Nuovi
+3016,Sud,B2B
+3017,Nord,Fedeli
+3018,Sud,Alto spendenti
+3019,Sud,Alto spendenti
+3020,Nord,Fedeli
+3021,Nord,B2B
+3022,Sud,Nuovi
+3023,Sud,Fedeli
+3024,Sud,Fedeli
+3025,Sud,Nuovi
+3026,Nord,Nuovi
+3027,Nord,B2B
+3028,Centro,Nuovi
+3029,Centro,Fedeli
+3030,Centro,Fedeli
+3031,Sud,Alto spendenti
+3032,Nord,Alto spendenti
+3033,Nord,Nuovi
+3034,Sud,Alto spendenti
+3035,Nord,Alto spendenti
+3036,Nord,Fedeli
+3037,Centro,Fedeli
+3038,Centro,Alto spendenti
+3039,Centro,B2B
+3040,Centro,Nuovi
+3041,Sud,B2B
+3042,Sud,Alto spendenti
+3043,Centro,Fedeli
+3044,Centro,Nuovi
+3045,Sud,Nuovi
+3046,Nord,Alto spendenti
+3047,Centro,Fedeli
+3048,Nord,Fedeli
+3049,Nord,Alto spendenti
+3050,Nord,Alto spendenti
+3051,Sud,Alto spendenti
+3052,Centro,B2B
+3053,Nord,Fedeli
+3054,Centro,Nuovi
+3055,Centro,Nuovi
+3056,Centro,Nuovi
+3057,Centro,Nuovi
+3058,Sud,B2B
+3059,Sud,Fedeli
+3060,Sud,Fedeli
+3061,Nord,Fedeli
+3062,Centro,Alto spendenti
+3063,Nord,Fedeli
+3064,Sud,B2B
+3065,Centro,Alto spendenti
+3066,Sud,Alto spendenti
+3067,Centro,Fedeli
+3068,Centro,B2B
+3069,Nord,Fedeli
+3070,Sud,Alto spendenti
+3071,Sud,B2B
+3072,Sud,Fedeli
+3073,Sud,Alto spendenti
+3074,Centro,Nuovi
+3075,Sud,B2B
+3076,Centro,B2B
+3077,Centro,Nuovi
+3078,Sud,B2B
+3079,Sud,Fedeli
+3080,Centro,Fedeli
+3081,Centro,B2B
+3082,Nord,Fedeli
+3083,Nord,Alto spendenti
+3084,Nord,Fedeli
+3085,Centro,Alto spendenti
+3086,Nord,Nuovi
+3087,Sud,B2B
+3088,Sud,Alto spendenti
+3089,Centro,Fedeli
+3090,Sud,Nuovi
+3091,Sud,Fedeli
+3092,Sud,Fedeli
+3093,Nord,B2B
+3094,Nord,Alto spendenti
+3095,Nord,Fedeli
+3096,Nord,Fedeli
+3097,Nord,Nuovi
+3098,Sud,Alto spendenti
+3099,Centro,B2B
+3100,Sud,Alto spendenti
+3101,Nord,Nuovi
+3102,Nord,Fedeli
+3103,Sud,Fedeli
+3104,Centro,Nuovi
+3105,Centro,Nuovi
+3106,Centro,B2B
+3107,Sud,Alto spendenti
+3108,Sud,Alto spendenti
+3109,Nord,Nuovi
+3110,Sud,Fedeli
+3111,Sud,Nuovi
+3112,Centro,B2B
+3113,Nord,B2B
+3114,Nord,Fedeli
+3115,Centro,B2B
+3116,Nord,Nuovi
+3117,Centro,Nuovi
+3118,Nord,Nuovi
+3119,Sud,Nuovi
+3120,Sud,B2B
+3121,Centro,B2B
+3122,Sud,B2B
+3123,Sud,B2B
+3124,Nord,B2B
+3125,Nord,B2B
+3126,Sud,Alto spendenti
+3127,Nord,Fedeli
+3128,Nord,Alto spendenti
+3129,Nord,Alto spendenti
+3130,Sud,Nuovi
+3131,Centro,Fedeli
+3132,Sud,Alto spendenti
+3133,Nord,Nuovi
+3134,Nord,B2B
+3135,Sud,Nuovi
+3136,Nord,Nuovi
+3137,Nord,B2B
+3138,Sud,Alto spendenti
+3139,Nord,Fedeli
+3140,Sud,Alto spendenti
+3141,Nord,B2B
+3142,Nord,Alto spendenti
+3143,Sud,B2B
+3144,Sud,Fedeli
+3145,Nord,Alto spendenti
+3146,Centro,B2B
+3147,Sud,Nuovi
+3148,Sud,Alto spendenti
+3149,Sud,Alto spendenti
+3150,Sud,Fedeli
+3151,Centro,Nuovi
+3152,Sud,Fedeli
+3153,Sud,Alto spendenti
+3154,Sud,Alto spendenti
+3155,Nord,Fedeli
+3156,Centro,B2B
+3157,Centro,Fedeli
+3158,Centro,Alto spendenti
+3159,Nord,Fedeli
+3160,Centro,Fedeli
+3161,Centro,Nuovi
+3162,Centro,Alto spendenti
+3163,Centro,Alto spendenti
+3164,Centro,B2B
+3165,Centro,Nuovi
+3166,Nord,Nuovi
+3167,Sud,B2B
+3168,Nord,Fedeli
+3169,Nord,Fedeli
+3170,Sud,Fedeli
+3171,Sud,Fedeli
+3172,Nord,Nuovi
+3173,Nord,B2B
+3174,Sud,Fedeli
+3175,Sud,Nuovi
+3176,Nord,Fedeli
+3177,Centro,Alto spendenti
+3178,Nord,Fedeli
+3179,Nord,Nuovi
+3180,Centro,Fedeli
+3181,Nord,B2B
+3182,Centro,Nuovi
+3183,Nord,B2B
+3184,Nord,Nuovi
+3185,Centro,B2B
+3186,Sud,B2B
+3187,Sud,Fedeli
+3188,Centro,B2B
+3189,Nord,Nuovi
+3190,Nord,Fedeli
+3191,Centro,Fedeli
+3192,Sud,Alto spendenti
+3193,Centro,Fedeli
+3194,Centro,Alto spendenti
+3195,Nord,Nuovi
+3196,Centro,Nuovi
+3197,Centro,Fedeli
+3198,Centro,Nuovi
+3199,Centro,Alto spendenti
+3200,Centro,Alto spendenti
+3201,Nord,Nuovi
+3202,Nord,Alto spendenti
+3203,Nord,Nuovi
+3204,Sud,Fedeli
+3205,Sud,Nuovi
+3206,Centro,Alto spendenti
+3207,Sud,Fedeli
+3208,Nord,Nuovi
+3209,Nord,B2B
+3210,Centro,Alto spendenti
+3211,Sud,Nuovi
+3212,Centro,Alto spendenti
+3213,Centro,B2B
+3214,Centro,Fedeli
+3215,Nord,Nuovi
+3216,Centro,Fedeli
+3217,Sud,B2B
+3218,Centro,Nuovi
+3219,Sud,Alto spendenti
+3220,Nord,Alto spendenti
+3221,Sud,Fedeli
+3222,Centro,Fedeli
+3223,Nord,Fedeli
+3224,Sud,Nuovi
+3225,Sud,Alto spendenti
+3226,Sud,Fedeli
+3227,Sud,Nuovi
+3228,Centro,Alto spendenti
+3229,Nord,Nuovi
+3230,Sud,Fedeli
+3231,Centro,Fedeli
+3232,Nord,Alto spendenti
+3233,Sud,Nuovi
+3234,Nord,Nuovi
+3235,Sud,Alto spendenti
+3236,Sud,Nuovi
+3237,Sud,Alto spendenti
+3238,Sud,Nuovi
+3239,Centro,Nuovi
+3240,Sud,Nuovi
+3241,Nord,Alto spendenti
+3242,Centro,Alto spendenti
+3243,Nord,Fedeli
+3244,Nord,Alto spendenti
+3245,Nord,Nuovi
+3246,Nord,Nuovi
+3247,Centro,Nuovi
+3248,Sud,Nuovi
+3249,Nord,Fedeli
+3250,Sud,B2B
+3251,Nord,Alto spendenti
+3252,Centro,Fedeli
+3253,Centro,Nuovi
+3254,Nord,Fedeli
+3255,Sud,Nuovi
+3256,Nord,Nuovi
+3257,Sud,Nuovi
+3258,Sud,B2B
+3259,Centro,Alto spendenti
+3260,Centro,Nuovi
+3261,Sud,Alto spendenti
+3262,Sud,Alto spendenti
+3263,Nord,B2B
+3264,Sud,Fedeli
+3265,Sud,B2B
+3266,Nord,Nuovi
+3267,Nord,Fedeli
+3268,Nord,Alto spendenti
+3269,Sud,Nuovi
+3270,Sud,B2B
+3271,Nord,B2B
+3272,Centro,Nuovi
+3273,Nord,Alto spendenti
+3274,Nord,B2B
+3275,Sud,B2B
+3276,Sud,Fedeli
+3277,Centro,Alto spendenti
+3278,Sud,Alto spendenti
+3279,Centro,Fedeli
+3280,Nord,Alto spendenti
+3281,Centro,Alto spendenti
+3282,Nord,Nuovi
+3283,Nord,Nuovi
+3284,Sud,Alto spendenti
+3285,Centro,Alto spendenti
+3286,Sud,Alto spendenti
+3287,Centro,Nuovi
+3288,Nord,Alto spendenti
+3289,Centro,B2B
+3290,Sud,Alto spendenti
+3291,Sud,Fedeli
+3292,Sud,Alto spendenti
+3293,Centro,Nuovi
+3294,Nord,Alto spendenti
+3295,Centro,B2B
+3296,Nord,Alto spendenti
+3297,Sud,Nuovi
+3298,Sud,B2B
+3299,Sud,Fedeli
+3300,Centro,B2B
+3301,Centro,Nuovi
+3302,Sud,Nuovi
+3303,Sud,Nuovi
+3304,Nord,Nuovi
+3305,Centro,Nuovi
+3306,Nord,Nuovi
+3307,Sud,Alto spendenti
+3308,Centro,Nuovi
+3309,Sud,Alto spendenti
+3310,Sud,Nuovi
+3311,Sud,Fedeli
+3312,Centro,Nuovi
+3313,Centro,B2B
+3314,Nord,Alto spendenti
+3315,Sud,Nuovi
+3316,Sud,Alto spendenti
+3317,Sud,Fedeli
+3318,Sud,Fedeli
+3319,Nord,Fedeli
+3320,Centro,Fedeli
+3321,Nord,Fedeli
+3322,Nord,Fedeli
+3323,Nord,Alto spendenti
+3324,Nord,B2B
+3325,Nord,Nuovi
+3326,Centro,Nuovi
+3327,Centro,Fedeli
+3328,Sud,B2B
+3329,Nord,Fedeli
+3330,Sud,B2B
+3331,Sud,B2B
+3332,Centro,B2B
+3333,Sud,B2B
+3334,Nord,Nuovi
+3335,Sud,Alto spendenti
+3336,Nord,Nuovi
+3337,Nord,Fedeli
+3338,Sud,B2B
+3339,Centro,Fedeli
+3340,Centro,Alto spendenti
+3341,Nord,Alto spendenti
+3342,Nord,Fedeli
+3343,Nord,B2B
+3344,Sud,Alto spendenti
+3345,Sud,B2B
+3346,Nord,Fedeli
+3347,Centro,Nuovi
+3348,Sud,B2B
+3349,Sud,Fedeli
+3350,Nord,Nuovi
+3351,Centro,Nuovi
+3352,Nord,Fedeli
+3353,Nord,Nuovi
+3354,Sud,Nuovi
+3355,Centro,Nuovi
+3356,Sud,Nuovi
+3357,Nord,Alto spendenti
+3358,Sud,B2B
+3359,Centro,Nuovi
+3360,Nord,Fedeli
+3361,Centro,Fedeli
+3362,Nord,Alto spendenti
+3363,Nord,Nuovi
+3364,Sud,Alto spendenti
+3365,Nord,B2B
+3366,Centro,Alto spendenti
+3367,Nord,Fedeli
+3368,Centro,Nuovi
+3369,Sud,Alto spendenti
+3370,Nord,B2B
+3371,Nord,B2B
+3372,Centro,B2B
+3373,Sud,Nuovi
+3374,Sud,Nuovi
+3375,Centro,Nuovi
+3376,Centro,Nuovi
+3377,Centro,Fedeli
+3378,Nord,Fedeli
+3379,Centro,Fedeli
+3380,Sud,B2B
+3381,Centro,Nuovi
+3382,Nord,Nuovi
+3383,Sud,Alto spendenti
+3384,Sud,Fedeli
+3385,Sud,Fedeli
+3386,Sud,Fedeli
+3387,Nord,B2B
+3388,Centro,Alto spendenti
+3389,Centro,B2B
+3390,Nord,Fedeli
+3391,Sud,B2B
+3392,Nord,B2B
+3393,Nord,Fedeli
+3394,Sud,Alto spendenti
+3395,Nord,Alto spendenti
+3396,Nord,Alto spendenti
+3397,Sud,Alto spendenti
+3398,Sud,Nuovi
+3399,Nord,Fedeli
+3400,Centro,Alto spendenti
+3401,Sud,B2B
+3402,Nord,Fedeli
+3403,Sud,B2B
+3404,Nord,Fedeli
+3405,Centro,Alto spendenti
+3406,Nord,Nuovi
+3407,Sud,Nuovi
+3408,Sud,Nuovi
+3409,Sud,B2B
+3410,Sud,Alto spendenti
+3411,Sud,Alto spendenti
+3412,Sud,Fedeli
+3413,Centro,Nuovi
+3414,Sud,Nuovi
+3415,Centro,Alto spendenti
+3416,Nord,Alto spendenti
+3417,Nord,Nuovi
+3418,Nord,B2B
+3419,Centro,Nuovi
+3420,Sud,B2B
+3421,Centro,Nuovi
+3422,Sud,Fedeli
+3423,Nord,B2B
+3424,Centro,Alto spendenti
+3425,Nord,Alto spendenti
+3426,Nord,Fedeli
+3427,Centro,Fedeli
+3428,Centro,B2B
+3429,Centro,Alto spendenti
+3430,Nord,Nuovi
+3431,Nord,Alto spendenti
+3432,Centro,Nuovi
+3433,Centro,Fedeli
+3434,Nord,B2B
+3435,Sud,B2B
+3436,Centro,Fedeli
+3437,Sud,Fedeli
+3438,Nord,Alto spendenti
+3439,Sud,Fedeli
+3440,Sud,Nuovi
+3441,Centro,B2B
+3442,Centro,Fedeli
+3443,Centro,Alto spendenti
+3444,Nord,B2B
+3445,Centro,Nuovi
+3446,Sud,B2B
+3447,Nord,Alto spendenti
+3448,Centro,Nuovi
+3449,Sud,Alto spendenti
+3450,Nord,B2B
+3451,Nord,Nuovi
+3452,Centro,B2B
+3453,Sud,Alto spendenti
+3454,Centro,B2B
+3455,Centro,Nuovi
+3456,Sud,B2B
+3457,Nord,Fedeli
+3458,Centro,Fedeli
+3459,Sud,Alto spendenti
+3460,Sud,Nuovi
+3461,Nord,Alto spendenti
+3462,Centro,B2B
+3463,Sud,Nuovi
+3464,Sud,Fedeli
+3465,Sud,B2B
+3466,Sud,Alto spendenti
+3467,Sud,B2B
+3468,Sud,B2B
+3469,Sud,Fedeli
+3470,Centro,B2B
+3471,Centro,B2B
+3472,Nord,B2B
+3473,Sud,Fedeli
+3474,Centro,Alto spendenti
+3475,Nord,Nuovi
+3476,Sud,Nuovi
+3477,Nord,Nuovi
+3478,Nord,Fedeli
+3479,Nord,Alto spendenti
+3480,Nord,B2B
+3481,Sud,B2B
+3482,Nord,B2B
+3483,Nord,B2B
+3484,Nord,B2B
+3485,Nord,Nuovi
+3486,Sud,B2B
+3487,Sud,Nuovi
+3488,Centro,B2B
+3489,Centro,B2B
+3490,Nord,Fedeli
+3491,Centro,Nuovi
+3492,Centro,Nuovi
+3493,Nord,Fedeli
+3494,Centro,Fedeli
+3495,Nord,Nuovi
+3496,Nord,Fedeli
+3497,Sud,B2B
+3498,Centro,Fedeli
+3499,Centro,Nuovi
+3500,Nord,Alto spendenti
+3501,Sud,Nuovi
+3502,Centro,Alto spendenti
+3503,Centro,Fedeli
+3504,Centro,Fedeli
+3505,Centro,Nuovi
+3506,Centro,B2B
+3507,Centro,Nuovi
+3508,Nord,Nuovi
+3509,Sud,Fedeli
+3510,Nord,Alto spendenti
+3511,Sud,B2B
+3512,Sud,Nuovi
+3513,Centro,Nuovi
+3514,Centro,Fedeli
+3515,Sud,Nuovi
+3516,Sud,Fedeli
+3517,Nord,Fedeli
+3518,Centro,B2B
+3519,Centro,B2B
+3520,Sud,Fedeli
+3521,Centro,B2B
+3522,Nord,Nuovi
+3523,Centro,Fedeli
+3524,Centro,Nuovi
+3525,Sud,Alto spendenti
+3526,Centro,B2B
+3527,Nord,Nuovi
+3528,Centro,Nuovi
+3529,Nord,B2B
+3530,Nord,B2B
+3531,Nord,Nuovi
+3532,Centro,Nuovi
+3533,Centro,Nuovi
+3534,Nord,Fedeli
+3535,Nord,Nuovi
+3536,Centro,Alto spendenti
+3537,Nord,Alto spendenti
+3538,Centro,Nuovi
+3539,Centro,Nuovi
+3540,Nord,Nuovi
+3541,Centro,B2B
+3542,Centro,Fedeli
+3543,Centro,Alto spendenti
+3544,Centro,Nuovi
+3545,Nord,Nuovi
+3546,Nord,Nuovi
+3547,Nord,Fedeli
+3548,Centro,Fedeli
+3549,Sud,Nuovi
+3550,Nord,B2B
+3551,Nord,B2B
+3552,Nord,Nuovi
+3553,Sud,Alto spendenti
+3554,Sud,Nuovi
+3555,Nord,Fedeli
+3556,Sud,B2B
+3557,Centro,B2B
+3558,Centro,B2B
+3559,Centro,B2B
+3560,Nord,Fedeli
+3561,Nord,B2B
+3562,Centro,Nuovi
+3563,Centro,Nuovi
+3564,Sud,B2B
+3565,Nord,B2B
+3566,Sud,B2B
+3567,Sud,Fedeli
+3568,Nord,B2B
+3569,Nord,Nuovi
+3570,Nord,Alto spendenti
+3571,Nord,Alto spendenti
+3572,Sud,Alto spendenti
+3573,Centro,Nuovi
+3574,Centro,B2B
+3575,Nord,B2B
+3576,Centro,Nuovi
+3577,Sud,B2B
+3578,Centro,Nuovi
+3579,Sud,Fedeli
+3580,Sud,Nuovi
+3581,Sud,Nuovi
+3582,Nord,Alto spendenti
+3583,Centro,Alto spendenti
+3584,Centro,B2B
+3585,Nord,Alto spendenti
+3586,Sud,Nuovi
+3587,Nord,Fedeli
+3588,Sud,Fedeli
+3589,Nord,Alto spendenti
+3590,Nord,Fedeli
+3591,Centro,Alto spendenti
+3592,Nord,B2B
+3593,Sud,Nuovi
+3594,Centro,Alto spendenti
+3595,Nord,Alto spendenti
+3596,Sud,Nuovi
+3597,Sud,Nuovi
+3598,Sud,Fedeli
+3599,Sud,Fedeli
+3600,Sud,Fedeli
+3601,Centro,B2B
+3602,Centro,Nuovi
+3603,Nord,Alto spendenti
+3604,Sud,Alto spendenti
+3605,Centro,Fedeli
+3606,Sud,Alto spendenti
+3607,Nord,B2B
+3608,Sud,Nuovi
+3609,Sud,Fedeli
+3610,Sud,Alto spendenti
+3611,Centro,Fedeli
+3612,Nord,Nuovi
+3613,Centro,Nuovi
+3614,Centro,B2B
+3615,Nord,Alto spendenti
+3616,Centro,Alto spendenti
+3617,Nord,Fedeli
+3618,Sud,Alto spendenti
+3619,Centro,Fedeli
+3620,Sud,B2B
+3621,Nord,Fedeli
+3622,Sud,Nuovi
+3623,Nord,Alto spendenti
+3624,Nord,Nuovi
+3625,Sud,Nuovi
+3626,Nord,B2B
+3627,Centro,Fedeli
+3628,Sud,Alto spendenti
+3629,Sud,B2B
+3630,Centro,B2B
+3631,Sud,Nuovi
+3632,Nord,Fedeli
+3633,Nord,Alto spendenti
+3634,Centro,Fedeli
+3635,Centro,Alto spendenti
+3636,Sud,Nuovi
+3637,Sud,B2B
+3638,Nord,B2B
+3639,Centro,Nuovi
+3640,Centro,Nuovi
+3641,Nord,B2B
+3642,Sud,B2B
+3643,Nord,Alto spendenti
+3644,Sud,B2B
+3645,Nord,B2B
+3646,Nord,Alto spendenti
+3647,Nord,B2B
+3648,Sud,Nuovi
+3649,Sud,Alto spendenti
+3650,Centro,Nuovi
+3651,Sud,Fedeli
+3652,Sud,Fedeli
+3653,Nord,Nuovi
+3654,Nord,Nuovi
+3655,Nord,Fedeli
+3656,Sud,Fedeli
+3657,Sud,Nuovi
+3658,Sud,Fedeli
+3659,Sud,Nuovi
+3660,Sud,B2B
+3661,Nord,B2B
+3662,Sud,Fedeli
+3663,Nord,Alto spendenti
+3664,Sud,Fedeli
+3665,Centro,Alto spendenti
+3666,Sud,Nuovi
+3667,Sud,Fedeli
+3668,Centro,Alto spendenti
+3669,Nord,Nuovi
+3670,Sud,Fedeli
+3671,Sud,Fedeli
+3672,Nord,Alto spendenti
+3673,Sud,Fedeli
+3674,Sud,B2B
+3675,Sud,Alto spendenti
+3676,Nord,Alto spendenti
+3677,Nord,B2B
+3678,Sud,Fedeli
+3679,Centro,B2B
+3680,Centro,Fedeli
+3681,Centro,B2B
+3682,Centro,Alto spendenti
+3683,Sud,Nuovi
+3684,Sud,Alto spendenti
+3685,Sud,Fedeli
+3686,Nord,Fedeli
+3687,Centro,B2B
+3688,Sud,B2B
+3689,Sud,Fedeli
+3690,Nord,Alto spendenti
+3691,Centro,B2B
+3692,Centro,B2B
+3693,Nord,Fedeli
+3694,Nord,Alto spendenti
+3695,Nord,Alto spendenti
+3696,Nord,B2B
+3697,Sud,Nuovi
+3698,Centro,Nuovi
+3699,Centro,Alto spendenti
+3700,Nord,Fedeli
+3701,Centro,Alto spendenti
+3702,Sud,Fedeli
+3703,Nord,Nuovi
+3704,Centro,B2B
+3705,Centro,Nuovi
+3706,Centro,Nuovi
+3707,Sud,Alto spendenti
+3708,Nord,Fedeli
+3709,Nord,B2B
+3710,Sud,Alto spendenti
+3711,Nord,Alto spendenti
+3712,Centro,Alto spendenti
+3713,Centro,Fedeli
+3714,Sud,B2B
+3715,Centro,Fedeli
+3716,Centro,Nuovi
+3717,Sud,Nuovi
+3718,Nord,Fedeli
+3719,Nord,Alto spendenti
+3720,Nord,Nuovi
+3721,Centro,B2B
+3722,Nord,Nuovi
+3723,Sud,Fedeli
+3724,Nord,Nuovi
+3725,Nord,Fedeli
+3726,Nord,Alto spendenti
+3727,Nord,Alto spendenti
+3728,Centro,Nuovi
+3729,Sud,Fedeli
+3730,Nord,B2B
+3731,Sud,Fedeli
+3732,Nord,Nuovi
+3733,Sud,Nuovi
+3734,Centro,Nuovi
+3735,Nord,Alto spendenti
+3736,Nord,Alto spendenti
+3737,Nord,B2B
+3738,Centro,Fedeli
+3739,Centro,Nuovi
+3740,Centro,Alto spendenti
+3741,Sud,Alto spendenti
+3742,Centro,B2B
+3743,Sud,Fedeli
+3744,Nord,Alto spendenti
+3745,Nord,Alto spendenti
+3746,Sud,Nuovi
+3747,Sud,Alto spendenti
+3748,Sud,Nuovi
+3749,Nord,Nuovi
+3750,Centro,B2B
+3751,Sud,Nuovi
+3752,Nord,Fedeli
+3753,Centro,Fedeli
+3754,Centro,Fedeli
+3755,Nord,B2B
+3756,Centro,B2B
+3757,Centro,Fedeli
+3758,Sud,Nuovi
+3759,Nord,Fedeli
+3760,Nord,B2B
+3761,Nord,Fedeli
+3762,Nord,Nuovi
+3763,Nord,Nuovi
+3764,Centro,Nuovi
+3765,Nord,Fedeli
+3766,Centro,Nuovi
+3767,Centro,Alto spendenti
+3768,Sud,Nuovi
+3769,Centro,Alto spendenti
+3770,Sud,B2B
+3771,Nord,Alto spendenti
+3772,Nord,Alto spendenti
+3773,Nord,Fedeli
+3774,Centro,Nuovi
+3775,Sud,Alto spendenti
+3776,Centro,B2B
+3777,Nord,Nuovi
+3778,Centro,B2B
+3779,Nord,B2B
+3780,Sud,Alto spendenti
+3781,Centro,Alto spendenti
+3782,Nord,Nuovi
+3783,Centro,Alto spendenti
+3784,Centro,Nuovi
+3785,Sud,B2B
+3786,Sud,Nuovi
+3787,Sud,Fedeli
+3788,Centro,Alto spendenti
+3789,Nord,Fedeli
+3790,Centro,Nuovi
+3791,Sud,B2B
+3792,Nord,B2B
+3793,Sud,Nuovi
+3794,Nord,Fedeli
+3795,Sud,Fedeli
+3796,Sud,Alto spendenti
+3797,Nord,Alto spendenti
+3798,Centro,Nuovi
+3799,Centro,Nuovi
+3800,Sud,B2B
+3801,Sud,B2B
+3802,Nord,Alto spendenti
+3803,Centro,B2B
+3804,Nord,Alto spendenti
+3805,Sud,Alto spendenti
+3806,Sud,B2B
+3807,Nord,Nuovi
+3808,Nord,Nuovi
+3809,Nord,Alto spendenti
+3810,Sud,Alto spendenti
+3811,Nord,Fedeli
+3812,Centro,Fedeli
+3813,Centro,Nuovi
+3814,Sud,Fedeli
+3815,Sud,Fedeli
+3816,Centro,Fedeli
+3817,Nord,Alto spendenti
+3818,Centro,Alto spendenti
+3819,Centro,Alto spendenti
+3820,Sud,Alto spendenti
+3821,Sud,Alto spendenti
+3822,Centro,Nuovi
+3823,Centro,Fedeli
+3824,Centro,Nuovi
+3825,Centro,Nuovi
+3826,Centro,B2B
+3827,Centro,Alto spendenti
+3828,Nord,Fedeli
+3829,Sud,Fedeli
+3830,Sud,Alto spendenti
+3831,Sud,Nuovi
+3832,Centro,B2B
+3833,Nord,Alto spendenti
+3834,Centro,B2B
+3835,Sud,Fedeli
+3836,Nord,Nuovi
+3837,Centro,Fedeli
+3838,Sud,Fedeli
+3839,Centro,Fedeli
+3840,Nord,Nuovi
+3841,Nord,Nuovi
+3842,Sud,Fedeli
+3843,Sud,B2B
+3844,Centro,Nuovi
+3845,Sud,Nuovi
+3846,Centro,Fedeli
+3847,Sud,Nuovi
+3848,Centro,B2B
+3849,Sud,Alto spendenti
+3850,Sud,Nuovi
+3851,Sud,B2B
+3852,Centro,B2B
+3853,Centro,Fedeli
+3854,Sud,B2B
+3855,Centro,Nuovi
+3856,Centro,Alto spendenti
+3857,Sud,Fedeli
+3858,Nord,Fedeli
+3859,Sud,B2B
+3860,Centro,Fedeli
+3861,Sud,Alto spendenti
+3862,Sud,Alto spendenti
+3863,Sud,Fedeli
+3864,Nord,Fedeli
+3865,Sud,Alto spendenti
+3866,Sud,Nuovi
+3867,Nord,Nuovi
+3868,Sud,Fedeli
+3869,Nord,Fedeli
+3870,Centro,B2B
+3871,Sud,B2B
+3872,Sud,B2B
+3873,Centro,Fedeli
+3874,Sud,B2B
+3875,Centro,Fedeli
+3876,Centro,Alto spendenti
+3877,Centro,Nuovi
+3878,Centro,B2B
+3879,Centro,Nuovi
+3880,Nord,Alto spendenti
+3881,Centro,Fedeli
+3882,Nord,Fedeli
+3883,Centro,B2B
+3884,Centro,Alto spendenti
+3885,Centro,Alto spendenti
+3886,Sud,Nuovi
+3887,Nord,Nuovi
+3888,Centro,Nuovi
+3889,Nord,Nuovi
+3890,Nord,B2B
+3891,Nord,Alto spendenti
+3892,Centro,Nuovi
+3893,Centro,B2B
+3894,Centro,Fedeli
+3895,Centro,Nuovi
+3896,Nord,B2B
+3897,Sud,Fedeli
+3898,Centro,Alto spendenti
+3899,Nord,Fedeli
+3900,Nord,Fedeli
+3901,Centro,B2B
+3902,Sud,Nuovi
+3903,Sud,Alto spendenti
+3904,Nord,Alto spendenti
+3905,Centro,Alto spendenti
+3906,Nord,B2B
+3907,Sud,B2B
+3908,Nord,Alto spendenti
+3909,Nord,Nuovi
+3910,Nord,Fedeli
+3911,Nord,B2B
+3912,Centro,Alto spendenti
+3913,Nord,Alto spendenti
+3914,Centro,Nuovi
+3915,Centro,Nuovi
+3916,Sud,B2B
+3917,Sud,Fedeli
+3918,Sud,Alto spendenti
+3919,Sud,Nuovi
+3920,Nord,Alto spendenti
+3921,Sud,Fedeli
+3922,Nord,Fedeli
+3923,Nord,B2B
+3924,Nord,Fedeli
+3925,Nord,Alto spendenti
+3926,Nord,Alto spendenti
+3927,Sud,Nuovi
+3928,Centro,Fedeli
+3929,Nord,Fedeli
+3930,Centro,Fedeli
+3931,Centro,Alto spendenti
+3932,Centro,Nuovi
+3933,Sud,B2B
+3934,Centro,Fedeli
+3935,Centro,B2B
+3936,Nord,Nuovi
+3937,Nord,Nuovi
+3938,Sud,Alto spendenti
+3939,Nord,Fedeli
+3940,Sud,Nuovi
+3941,Sud,B2B
+3942,Sud,Nuovi
+3943,Centro,Fedeli
+3944,Centro,B2B
+3945,Nord,B2B
+3946,Nord,Nuovi
+3947,Nord,Alto spendenti
+3948,Sud,Fedeli
+3949,Sud,Fedeli
+3950,Nord,B2B
+3951,Centro,Alto spendenti
+3952,Centro,Nuovi
+3953,Sud,B2B
+3954,Centro,B2B
+3955,Nord,Nuovi
+3956,Sud,B2B
+3957,Sud,Fedeli
+3958,Centro,Nuovi
+3959,Sud,Nuovi
+3960,Centro,Nuovi
+3961,Nord,B2B
+3962,Sud,Nuovi
+3963,Nord,Alto spendenti
+3964,Nord,Nuovi
+3965,Nord,Nuovi
+3966,Centro,B2B
+3967,Centro,Nuovi
+3968,Centro,Nuovi
+3969,Sud,Nuovi
+3970,Nord,Fedeli
+3971,Sud,Alto spendenti
+3972,Centro,B2B
+3973,Centro,B2B
+3974,Centro,Nuovi
+3975,Sud,Fedeli
+3976,Sud,Alto spendenti
+3977,Nord,B2B
+3978,Centro,B2B
+3979,Nord,Alto spendenti
+3980,Nord,Fedeli
+3981,Sud,Nuovi
+3982,Nord,Nuovi
+3983,Centro,Alto spendenti
+3984,Nord,Fedeli
+3985,Nord,Nuovi
+3986,Nord,B2B
+3987,Nord,B2B
+3988,Centro,Alto spendenti
+3989,Sud,Nuovi
+3990,Centro,B2B
+3991,Sud,Fedeli
+3992,Nord,Fedeli
+3993,Nord,B2B
+3994,Centro,B2B
+3995,Sud,Nuovi
+3996,Sud,B2B
+3997,Sud,B2B
+3998,Sud,Nuovi
+3999,Nord,Fedeli
+4000,Centro,B2B
+4001,Sud,Alto spendenti
+4002,Centro,B2B
+4003,Nord,Fedeli
+4004,Sud,B2B
+4005,Nord,Alto spendenti
+4006,Centro,Nuovi
+4007,Sud,Nuovi
+4008,Sud,Alto spendenti
+4009,Sud,B2B
+4010,Sud,Nuovi
+4011,Nord,Nuovi
+4012,Centro,Fedeli
+4013,Nord,Nuovi
+4014,Sud,Nuovi
+4015,Centro,Alto spendenti
+4016,Centro,Fedeli
+4017,Nord,Nuovi
+4018,Sud,B2B
+4019,Nord,Fedeli
+4020,Nord,Nuovi
+4021,Sud,Nuovi
+4022,Sud,Fedeli
+4023,Centro,B2B
+4024,Nord,Alto spendenti
+4025,Centro,Alto spendenti
+4026,Nord,Nuovi
+4027,Sud,B2B
+4028,Sud,B2B
+4029,Nord,Alto spendenti
+4030,Centro,Alto spendenti
+4031,Sud,B2B
+4032,Centro,Fedeli
+4033,Sud,Fedeli
+4034,Nord,Alto spendenti
+4035,Sud,Alto spendenti
+4036,Nord,B2B
+4037,Nord,B2B
+4038,Centro,Fedeli
+4039,Sud,Nuovi
+4040,Nord,B2B
+4041,Centro,Nuovi
+4042,Centro,Alto spendenti
+4043,Nord,B2B
+4044,Sud,Alto spendenti
+4045,Nord,Alto spendenti
+4046,Sud,Nuovi
+4047,Nord,B2B
+4048,Nord,B2B
+4049,Nord,Nuovi
+4050,Nord,B2B
+4051,Nord,Fedeli
+4052,Nord,Alto spendenti
+4053,Centro,Alto spendenti
+4054,Centro,Alto spendenti
+4055,Sud,B2B
+4056,Centro,Fedeli
+4057,Centro,B2B
+4058,Centro,Alto spendenti
+4059,Centro,Alto spendenti
+4060,Nord,Fedeli
+4061,Centro,B2B
+4062,Sud,B2B
+4063,Sud,Fedeli
+4064,Sud,B2B
+4065,Sud,Nuovi
+4066,Centro,B2B
+4067,Centro,B2B
+4068,Sud,B2B
+4069,Nord,B2B
+4070,Sud,B2B
+4071,Centro,Fedeli
+4072,Sud,B2B
+4073,Nord,Alto spendenti
+4074,Centro,B2B
+4075,Centro,Alto spendenti
+4076,Sud,Fedeli
+4077,Sud,Nuovi
+4078,Nord,Alto spendenti
+4079,Nord,Alto spendenti
+4080,Centro,Nuovi
+4081,Nord,Alto spendenti
+4082,Nord,Nuovi
+4083,Centro,B2B
+4084,Sud,Fedeli
+4085,Sud,B2B
+4086,Sud,B2B
+4087,Nord,Alto spendenti
+4088,Centro,Fedeli
+4089,Centro,B2B
+4090,Sud,Alto spendenti
+4091,Sud,B2B
+4092,Nord,B2B
+4093,Centro,B2B
+4094,Sud,Nuovi
+4095,Centro,B2B
+4096,Nord,Nuovi
+4097,Sud,B2B
+4098,Nord,Fedeli
+4099,Sud,Alto spendenti
+4100,Nord,Alto spendenti
+4101,Sud,B2B
+4102,Nord,Alto spendenti
+4103,Centro,Nuovi
+4104,Nord,Alto spendenti
+4105,Nord,Alto spendenti
+4106,Sud,Nuovi
+4107,Centro,B2B
+4108,Centro,Alto spendenti
+4109,Nord,Fedeli
+4110,Sud,Alto spendenti
+4111,Sud,Alto spendenti
+4112,Sud,Fedeli
+4113,Sud,Fedeli
+4114,Centro,Alto spendenti
+4115,Centro,Nuovi
+4116,Sud,Nuovi
+4117,Nord,Nuovi
+4118,Nord,B2B
+4119,Sud,B2B
+4120,Centro,Nuovi
+4121,Nord,Alto spendenti
+4122,Centro,B2B
+4123,Nord,Nuovi
+4124,Centro,Fedeli
+4125,Centro,Alto spendenti
+4126,Nord,Fedeli
+4127,Nord,B2B
+4128,Nord,B2B
+4129,Sud,B2B
+4130,Centro,Fedeli
+4131,Nord,Fedeli
+4132,Centro,Alto spendenti
+4133,Sud,Fedeli
+4134,Nord,Fedeli
+4135,Sud,Nuovi
+4136,Nord,Alto spendenti
+4137,Centro,Nuovi
+4138,Centro,Nuovi
+4139,Sud,B2B
+4140,Centro,B2B
+4141,Centro,Fedeli
+4142,Centro,Nuovi
+4143,Sud,Alto spendenti
+4144,Nord,Alto spendenti
+4145,Nord,Nuovi
+4146,Sud,Alto spendenti
+4147,Centro,Nuovi
+4148,Nord,Fedeli
+4149,Nord,Alto spendenti
+4150,Centro,B2B
+4151,Sud,B2B
+4152,Sud,Nuovi
+4153,Sud,B2B
+4154,Centro,B2B
+4155,Nord,Alto spendenti
+4156,Nord,Fedeli
+4157,Sud,Alto spendenti
+4158,Sud,B2B
+4159,Sud,Alto spendenti
+4160,Sud,Nuovi
+4161,Sud,B2B
+4162,Nord,Alto spendenti
+4163,Nord,Alto spendenti
+4164,Centro,Alto spendenti
+4165,Nord,Alto spendenti
+4166,Sud,Alto spendenti
+4167,Nord,Alto spendenti
+4168,Nord,B2B
+4169,Nord,Fedeli
+4170,Sud,Alto spendenti
+4171,Centro,B2B
+4172,Centro,Alto spendenti
+4173,Sud,B2B
+4174,Centro,Fedeli
+4175,Centro,Alto spendenti
+4176,Sud,B2B
+4177,Sud,B2B
+4178,Sud,Fedeli
+4179,Sud,B2B
+4180,Sud,B2B
+4181,Sud,Nuovi
+4182,Nord,Alto spendenti
+4183,Nord,Alto spendenti
+4184,Sud,Alto spendenti
+4185,Sud,Fedeli
+4186,Nord,Alto spendenti
+4187,Sud,Fedeli
+4188,Nord,B2B
+4189,Nord,Alto spendenti
+4190,Sud,Alto spendenti
+4191,Centro,Fedeli
+4192,Centro,Fedeli
+4193,Sud,Alto spendenti
+4194,Centro,Fedeli
+4195,Centro,B2B
+4196,Nord,Alto spendenti
+4197,Sud,Nuovi
+4198,Centro,B2B
+4199,Sud,Alto spendenti
+4200,Centro,B2B
+4201,Sud,B2B
+4202,Nord,B2B
+4203,Nord,Fedeli
+4204,Nord,Fedeli
+4205,Centro,Nuovi
+4206,Sud,Alto spendenti
+4207,Centro,Alto spendenti
+4208,Nord,Fedeli
+4209,Nord,Nuovi
+4210,Nord,B2B
+4211,Sud,Nuovi
+4212,Nord,Alto spendenti
+4213,Sud,Fedeli
+4214,Nord,B2B
+4215,Sud,Nuovi
+4216,Nord,Alto spendenti
+4217,Centro,Alto spendenti
+4218,Sud,Alto spendenti
+4219,Sud,B2B
+4220,Sud,Nuovi
+4221,Centro,Alto spendenti
+4222,Nord,Fedeli
+4223,Nord,Alto spendenti
+4224,Centro,B2B
+4225,Nord,Nuovi
+4226,Sud,Nuovi
+4227,Sud,B2B
+4228,Centro,Fedeli
+4229,Nord,B2B
+4230,Centro,Alto spendenti
+4231,Nord,Alto spendenti
+4232,Nord,Nuovi
+4233,Sud,B2B
+4234,Centro,Fedeli
+4235,Centro,Fedeli
+4236,Centro,Fedeli
+4237,Sud,Fedeli
+4238,Nord,B2B
+4239,Sud,B2B
+4240,Nord,Nuovi
+4241,Sud,B2B
+4242,Sud,B2B
+4243,Centro,B2B
+4244,Nord,B2B
+4245,Centro,B2B
+4246,Centro,Alto spendenti
+4247,Centro,Fedeli
+4248,Centro,Fedeli
+4249,Sud,Alto spendenti
+4250,Centro,Alto spendenti
+4251,Nord,Nuovi
+4252,Sud,Alto spendenti
+4253,Sud,Alto spendenti
+4254,Nord,Nuovi
+4255,Centro,B2B
+4256,Centro,Alto spendenti
+4257,Sud,Nuovi
+4258,Sud,B2B
+4259,Sud,Nuovi
+4260,Centro,Alto spendenti
+4261,Sud,Nuovi
+4262,Sud,Nuovi
+4263,Centro,B2B
+4264,Centro,Fedeli
+4265,Nord,Alto spendenti
+4266,Sud,Fedeli
+4267,Nord,B2B
+4268,Sud,Alto spendenti
+4269,Nord,Alto spendenti
+4270,Nord,Nuovi
+4271,Nord,Nuovi
+4272,Centro,Fedeli
+4273,Sud,B2B
+4274,Nord,Alto spendenti
+4275,Centro,Fedeli
+4276,Sud,Alto spendenti
+4277,Centro,Nuovi
+4278,Sud,Fedeli
+4279,Sud,Fedeli
+4280,Sud,Fedeli
+4281,Centro,Fedeli
+4282,Nord,Alto spendenti
+4283,Sud,Nuovi
+4284,Nord,Fedeli
+4285,Sud,Alto spendenti
+4286,Centro,Fedeli
+4287,Nord,Fedeli
+4288,Centro,Fedeli
+4289,Nord,Fedeli
+4290,Sud,Alto spendenti
+4291,Centro,Nuovi
+4292,Centro,Nuovi
+4293,Nord,Fedeli
+4294,Nord,B2B
+4295,Centro,Alto spendenti
+4296,Centro,B2B
+4297,Sud,Alto spendenti
+4298,Nord,Fedeli
+4299,Nord,Fedeli
+4300,Centro,Fedeli
+4301,Nord,Alto spendenti
+4302,Sud,Alto spendenti
+4303,Centro,Alto spendenti
+4304,Nord,Fedeli
+4305,Centro,Fedeli
+4306,Nord,Fedeli
+4307,Nord,Alto spendenti
+4308,Centro,B2B
+4309,Nord,Nuovi
+4310,Sud,Alto spendenti
+4311,Nord,Nuovi
+4312,Nord,Alto spendenti
+4313,Nord,B2B
+4314,Nord,Fedeli
+4315,Centro,Nuovi
+4316,Sud,Alto spendenti
+4317,Nord,Fedeli
+4318,Sud,Alto spendenti
+4319,Nord,Fedeli
+4320,Centro,Alto spendenti
+4321,Centro,B2B
+4322,Centro,Fedeli
+4323,Nord,Alto spendenti
+4324,Sud,Fedeli
+4325,Centro,Fedeli
+4326,Nord,Alto spendenti
+4327,Sud,Alto spendenti
+4328,Nord,B2B
+4329,Sud,Alto spendenti
+4330,Sud,B2B
+4331,Centro,B2B
+4332,Centro,Nuovi
+4333,Centro,B2B
+4334,Centro,Nuovi
+4335,Nord,B2B
+4336,Nord,Fedeli
+4337,Sud,B2B
+4338,Sud,Alto spendenti
+4339,Centro,Fedeli
+4340,Sud,B2B
+4341,Sud,Alto spendenti
+4342,Centro,Fedeli
+4343,Nord,Nuovi
+4344,Centro,Alto spendenti
+4345,Nord,Alto spendenti
+4346,Centro,Fedeli
+4347,Centro,Alto spendenti
+4348,Nord,B2B
+4349,Nord,Alto spendenti
+4350,Nord,Alto spendenti
+4351,Centro,B2B
+4352,Nord,Fedeli
+4353,Nord,B2B
+4354,Nord,B2B
+4355,Sud,B2B
+4356,Nord,Alto spendenti
+4357,Centro,B2B
+4358,Centro,B2B
+4359,Sud,Nuovi
+4360,Centro,Fedeli
+4361,Sud,B2B
+4362,Nord,Fedeli
+4363,Centro,Fedeli
+4364,Nord,Alto spendenti
+4365,Nord,Fedeli
+4366,Sud,B2B
+4367,Sud,B2B
+4368,Centro,B2B
+4369,Sud,Fedeli
+4370,Sud,B2B
+4371,Centro,Nuovi
+4372,Centro,Alto spendenti
+4373,Nord,Alto spendenti
+4374,Centro,Alto spendenti
+4375,Sud,B2B
+4376,Centro,Nuovi
+4377,Centro,Alto spendenti
+4378,Sud,Alto spendenti
+4379,Sud,Fedeli
+4380,Centro,B2B
+4381,Centro,Fedeli
+4382,Centro,Fedeli
+4383,Centro,Fedeli
+4384,Centro,Fedeli
+4385,Centro,Alto spendenti
+4386,Centro,Alto spendenti
+4387,Nord,Alto spendenti
+4388,Sud,B2B
+4389,Centro,Alto spendenti
+4390,Sud,B2B
+4391,Nord,Fedeli
+4392,Nord,Alto spendenti
+4393,Centro,Nuovi
+4394,Centro,Nuovi
+4395,Centro,Alto spendenti
+4396,Sud,B2B
+4397,Centro,Nuovi
+4398,Nord,Alto spendenti
+4399,Centro,Nuovi
+4400,Centro,Nuovi
+4401,Sud,Nuovi
+4402,Nord,Alto spendenti
+4403,Sud,B2B
+4404,Centro,Fedeli
+4405,Nord,Nuovi
+4406,Nord,Nuovi
+4407,Sud,Nuovi
+4408,Nord,B2B
+4409,Centro,Fedeli
+4410,Sud,B2B
+4411,Nord,B2B
+4412,Centro,Fedeli
+4413,Centro,B2B
+4414,Sud,Nuovi
+4415,Nord,Alto spendenti
+4416,Sud,Nuovi
+4417,Nord,Fedeli
+4418,Nord,Alto spendenti
+4419,Sud,Fedeli
+4420,Centro,B2B
+4421,Nord,Fedeli
+4422,Centro,Nuovi
+4423,Sud,B2B
+4424,Centro,Fedeli
+4425,Centro,Alto spendenti
+4426,Centro,Fedeli
+4427,Centro,Fedeli
+4428,Centro,Nuovi
+4429,Sud,Fedeli
+4430,Nord,Nuovi
+4431,Centro,Alto spendenti
+4432,Nord,Alto spendenti
+4433,Nord,B2B
+4434,Nord,B2B
+4435,Sud,Alto spendenti
+4436,Nord,B2B
+4437,Nord,Alto spendenti
+4438,Centro,Fedeli
+4439,Nord,Nuovi
+4440,Centro,B2B
+4441,Centro,Alto spendenti
+4442,Nord,Alto spendenti
+4443,Nord,Alto spendenti
+4444,Centro,Alto spendenti
+4445,Centro,Nuovi
+4446,Nord,B2B
+4447,Sud,Fedeli
+4448,Centro,Fedeli
+4449,Centro,Fedeli
+4450,Centro,Fedeli
+4451,Centro,Fedeli
+4452,Centro,Fedeli
+4453,Centro,B2B
+4454,Centro,B2B
+4455,Nord,Nuovi
+4456,Nord,Nuovi
+4457,Sud,Fedeli
+4458,Nord,B2B
+4459,Centro,Alto spendenti
+4460,Nord,Fedeli
+4461,Nord,Alto spendenti
+4462,Nord,Fedeli
+4463,Nord,Fedeli
+4464,Nord,Nuovi
+4465,Sud,Fedeli
+4466,Centro,Fedeli
+4467,Nord,Fedeli
+4468,Centro,Alto spendenti
+4469,Centro,Alto spendenti
+4470,Centro,Nuovi
+4471,Sud,Alto spendenti
+4472,Nord,Fedeli
+4473,Sud,B2B
+4474,Centro,B2B
+4475,Sud,Fedeli
+4476,Sud,Fedeli
+4477,Nord,Alto spendenti
+4478,Centro,B2B
+4479,Nord,Nuovi
+4480,Centro,Alto spendenti
+4481,Nord,Alto spendenti
+4482,Sud,Alto spendenti
+4483,Centro,Alto spendenti
+4484,Nord,Fedeli
+4485,Nord,B2B
+4486,Nord,Fedeli
+4487,Centro,Nuovi
+4488,Centro,Nuovi
+4489,Centro,Nuovi
+4490,Sud,B2B
+4491,Nord,B2B
+4492,Centro,Alto spendenti
+4493,Sud,Nuovi
+4494,Nord,Fedeli
+4495,Centro,B2B
+4496,Nord,Fedeli
+4497,Centro,B2B
+4498,Centro,Alto spendenti
+4499,Centro,B2B
+4500,Centro,Alto spendenti
+4501,Nord,Alto spendenti
+4502,Nord,Nuovi
+4503,Sud,Fedeli
+4504,Sud,Fedeli
+4505,Sud,Fedeli
+4506,Nord,Alto spendenti
+4507,Nord,Nuovi
+4508,Sud,Fedeli
+4509,Sud,Nuovi
+4510,Nord,B2B
+4511,Nord,Alto spendenti
+4512,Sud,Nuovi
+4513,Sud,B2B
+4514,Nord,Fedeli
+4515,Centro,Fedeli
+4516,Nord,B2B
+4517,Centro,Fedeli
+4518,Nord,Nuovi
+4519,Centro,Alto spendenti
+4520,Sud,B2B
+4521,Sud,Nuovi
+4522,Nord,Alto spendenti
+4523,Nord,Alto spendenti
+4524,Centro,Fedeli
+4525,Sud,Nuovi
+4526,Centro,Nuovi
+4527,Sud,Alto spendenti
+4528,Nord,Nuovi
+4529,Sud,Fedeli
+4530,Centro,Nuovi
+4531,Sud,Nuovi
+4532,Centro,B2B
+4533,Nord,Alto spendenti
+4534,Centro,Fedeli
+4535,Nord,Fedeli
+4536,Centro,Fedeli
+4537,Sud,Alto spendenti
+4538,Nord,Alto spendenti
+4539,Sud,Alto spendenti
+4540,Sud,Fedeli
+4541,Centro,Alto spendenti
+4542,Nord,Nuovi
+4543,Centro,Fedeli
+4544,Nord,Nuovi
+4545,Centro,Fedeli
+4546,Centro,Nuovi
+4547,Sud,Alto spendenti
+4548,Nord,Fedeli
+4549,Sud,Alto spendenti
+4550,Centro,Fedeli
+4551,Centro,B2B
+4552,Sud,Fedeli
+4553,Centro,Nuovi
+4554,Centro,Alto spendenti
+4555,Centro,Nuovi
+4556,Nord,B2B
+4557,Sud,Nuovi
+4558,Nord,Nuovi
+4559,Sud,Nuovi
+4560,Sud,Nuovi
+4561,Sud,Alto spendenti
+4562,Centro,B2B
+4563,Sud,Nuovi
+4564,Centro,B2B
+4565,Centro,Fedeli
+4566,Sud,Alto spendenti
+4567,Sud,Nuovi
+4568,Centro,Fedeli
+4569,Centro,Alto spendenti
+4570,Nord,B2B
+4571,Nord,Nuovi
+4572,Nord,Nuovi
+4573,Sud,B2B
+4574,Centro,Nuovi
+4575,Centro,Alto spendenti
+4576,Nord,B2B
+4577,Sud,B2B
+4578,Nord,Alto spendenti
+4579,Sud,Nuovi
+4580,Sud,Nuovi
+4581,Nord,Nuovi
+4582,Centro,Nuovi
+4583,Nord,B2B
+4584,Centro,Alto spendenti
+4585,Nord,Fedeli
+4586,Centro,Nuovi
+4587,Nord,Alto spendenti
+4588,Nord,Fedeli
+4589,Centro,Fedeli
+4590,Centro,Alto spendenti
+4591,Centro,Nuovi
+4592,Centro,Fedeli
+4593,Nord,Alto spendenti
+4594,Centro,B2B
+4595,Centro,Nuovi
+4596,Centro,Fedeli
+4597,Nord,B2B
+4598,Centro,Fedeli
+4599,Sud,Fedeli
+4600,Sud,Alto spendenti
+4601,Centro,Nuovi
+4602,Nord,Nuovi
+4603,Centro,Alto spendenti
+4604,Nord,Fedeli
+4605,Centro,Nuovi
+4606,Centro,Fedeli
+4607,Nord,Alto spendenti
+4608,Nord,B2B
+4609,Sud,Fedeli
+4610,Centro,Fedeli
+4611,Sud,B2B
+4612,Sud,Alto spendenti
+4613,Sud,Nuovi
+4614,Nord,B2B
+4615,Sud,Nuovi
+4616,Nord,Alto spendenti
+4617,Centro,Nuovi
+4618,Nord,Fedeli
+4619,Nord,Nuovi
+4620,Centro,Nuovi
+4621,Nord,Nuovi
+4622,Centro,B2B
+4623,Nord,Fedeli
+4624,Centro,Fedeli
+4625,Sud,Fedeli
+4626,Nord,Fedeli
+4627,Centro,Nuovi
+4628,Nord,Alto spendenti
+4629,Sud,B2B
+4630,Sud,Fedeli
+4631,Sud,Alto spendenti
+4632,Nord,Nuovi
+4633,Sud,B2B
+4634,Centro,Fedeli
+4635,Nord,Alto spendenti
+4636,Centro,Fedeli
+4637,Nord,Alto spendenti
+4638,Centro,Fedeli
+4639,Nord,B2B
+4640,Nord,B2B
+4641,Sud,Alto spendenti
+4642,Nord,Fedeli
+4643,Centro,Nuovi
+4644,Nord,B2B
+4645,Nord,Alto spendenti
+4646,Centro,B2B
+4647,Nord,B2B
+4648,Sud,Fedeli
+4649,Nord,Nuovi
+4650,Nord,Nuovi
+4651,Sud,Nuovi
+4652,Sud,Nuovi
+4653,Nord,B2B
+4654,Nord,Alto spendenti
+4655,Centro,B2B
+4656,Centro,B2B
+4657,Centro,B2B
+4658,Sud,Alto spendenti
+4659,Nord,Alto spendenti
+4660,Centro,Alto spendenti
+4661,Centro,Alto spendenti
+4662,Centro,Alto spendenti
+4663,Centro,B2B
+4664,Sud,B2B
+4665,Centro,B2B
+4666,Sud,Alto spendenti
+4667,Sud,Fedeli
+4668,Centro,Fedeli
+4669,Centro,Alto spendenti
+4670,Centro,Nuovi
+4671,Sud,B2B
+4672,Sud,Fedeli
+4673,Sud,Alto spendenti
+4674,Sud,B2B
+4675,Nord,Fedeli
+4676,Nord,B2B
+4677,Centro,B2B
+4678,Sud,Alto spendenti
+4679,Centro,Alto spendenti
+4680,Centro,Alto spendenti
+4681,Sud,Nuovi
+4682,Nord,Fedeli
+4683,Nord,B2B
+4684,Nord,B2B
+4685,Nord,B2B
+4686,Nord,B2B
+4687,Sud,Alto spendenti
+4688,Centro,B2B
+4689,Sud,Alto spendenti
+4690,Centro,Nuovi
+4691,Sud,B2B
+4692,Centro,Alto spendenti
+4693,Nord,Nuovi
+4694,Centro,Fedeli
+4695,Nord,Nuovi
+4696,Nord,B2B
+4697,Nord,Fedeli
+4698,Sud,Nuovi
+4699,Sud,Nuovi
+4700,Sud,B2B
+4701,Centro,Nuovi
+4702,Centro,Fedeli
+4703,Nord,Alto spendenti
+4704,Nord,B2B
+4705,Nord,Nuovi
+4706,Nord,Alto spendenti
+4707,Sud,Nuovi
+4708,Sud,Fedeli
+4709,Centro,Nuovi
+4710,Sud,Alto spendenti
+4711,Centro,Alto spendenti
+4712,Centro,Fedeli
+4713,Sud,Nuovi
+4714,Centro,Alto spendenti
+4715,Centro,B2B
+4716,Nord,Alto spendenti
+4717,Nord,B2B
+4718,Centro,Alto spendenti
+4719,Sud,Fedeli
+4720,Sud,Nuovi
+4721,Nord,Alto spendenti
+4722,Centro,Alto spendenti
+4723,Nord,Alto spendenti
+4724,Centro,B2B
+4725,Sud,Alto spendenti
+4726,Centro,Alto spendenti
+4727,Sud,Alto spendenti
+4728,Sud,Alto spendenti
+4729,Centro,B2B
+4730,Centro,Nuovi
+4731,Sud,Nuovi
+4732,Nord,Nuovi
+4733,Nord,Nuovi
+4734,Centro,Nuovi
+4735,Centro,Fedeli
+4736,Centro,B2B
+4737,Sud,Alto spendenti
+4738,Centro,B2B
+4739,Centro,B2B
+4740,Centro,Nuovi
+4741,Centro,Nuovi
+4742,Centro,B2B
+4743,Sud,Alto spendenti
+4744,Sud,Nuovi
+4745,Centro,Nuovi
+4746,Nord,Alto spendenti
+4747,Nord,Fedeli
+4748,Centro,B2B
+4749,Centro,Alto spendenti
+4750,Nord,B2B
+4751,Centro,B2B
+4752,Sud,Nuovi
+4753,Centro,Nuovi
+4754,Centro,Alto spendenti
+4755,Sud,B2B
+4756,Centro,Fedeli
+4757,Nord,Fedeli
+4758,Centro,Fedeli
+4759,Sud,Nuovi
+4760,Sud,Alto spendenti
+4761,Centro,Nuovi
+4762,Nord,Nuovi
+4763,Centro,B2B
+4764,Nord,Alto spendenti
+4765,Centro,Nuovi
+4766,Sud,Fedeli
+4767,Centro,Nuovi
+4768,Nord,Alto spendenti
+4769,Centro,B2B
+4770,Centro,Nuovi
+4771,Sud,Nuovi
+4772,Nord,Alto spendenti
+4773,Nord,Alto spendenti
+4774,Sud,B2B
+4775,Nord,Fedeli
+4776,Sud,B2B
+4777,Nord,Fedeli
+4778,Sud,Alto spendenti
+4779,Nord,B2B
+4780,Centro,B2B
+4781,Centro,B2B
+4782,Centro,B2B
+4783,Centro,Nuovi
+4784,Centro,Nuovi
+4785,Nord,Nuovi
+4786,Nord,Alto spendenti
+4787,Nord,Fedeli
+4788,Sud,Nuovi
+4789,Centro,Alto spendenti
+4790,Centro,Nuovi
+4791,Nord,Alto spendenti
+4792,Centro,Alto spendenti
+4793,Nord,Nuovi
+4794,Sud,Fedeli
+4795,Nord,B2B
+4796,Sud,Nuovi
+4797,Sud,Nuovi
+4798,Nord,Alto spendenti
+4799,Nord,Fedeli
+4800,Sud,B2B
+4801,Nord,Alto spendenti
+4802,Sud,Fedeli
+4803,Centro,B2B
+4804,Sud,Alto spendenti
+4805,Sud,Fedeli
+4806,Centro,B2B
+4807,Sud,B2B
+4808,Nord,Nuovi
+4809,Centro,B2B
+4810,Centro,B2B
+4811,Sud,Nuovi
+4812,Sud,Nuovi
+4813,Centro,Fedeli
+4814,Nord,Nuovi
+4815,Sud,Alto spendenti
+4816,Nord,Nuovi
+4817,Centro,B2B
+4818,Centro,B2B
+4819,Sud,Nuovi
+4820,Centro,Nuovi
+4821,Centro,Fedeli
+4822,Centro,Fedeli
+4823,Nord,Alto spendenti
+4824,Sud,Nuovi
+4825,Sud,Fedeli
+4826,Nord,Alto spendenti
+4827,Centro,Fedeli
+4828,Centro,Fedeli
+4829,Nord,B2B
+4830,Sud,Fedeli
+4831,Centro,Alto spendenti
+4832,Centro,B2B
+4833,Sud,Fedeli
+4834,Sud,Fedeli
+4835,Sud,Alto spendenti
+4836,Sud,Fedeli
+4837,Centro,Alto spendenti
+4838,Centro,Nuovi
+4839,Sud,Fedeli
+4840,Sud,B2B
+4841,Centro,B2B
+4842,Sud,Fedeli
+4843,Centro,Fedeli
+4844,Nord,Alto spendenti
+4845,Centro,Fedeli
+4846,Nord,B2B
+4847,Nord,Fedeli
+4848,Nord,B2B
+4849,Nord,B2B
+4850,Centro,B2B
+4851,Sud,B2B
+4852,Nord,Alto spendenti
+4853,Sud,Alto spendenti
+4854,Sud,B2B
+4855,Nord,Nuovi
+4856,Sud,Alto spendenti
+4857,Sud,Alto spendenti
+4858,Centro,Nuovi
+4859,Nord,Nuovi
+4860,Sud,Nuovi
+4861,Sud,B2B
+4862,Centro,Fedeli
+4863,Centro,B2B
+4864,Centro,Alto spendenti
+4865,Sud,Fedeli
+4866,Sud,Fedeli
+4867,Sud,Alto spendenti
+4868,Nord,B2B
+4869,Nord,Alto spendenti
+4870,Centro,Nuovi
+4871,Nord,Alto spendenti
+4872,Sud,Fedeli
+4873,Centro,Alto spendenti
+4874,Centro,B2B
+4875,Sud,Alto spendenti
+4876,Centro,B2B
+4877,Sud,Fedeli
+4878,Centro,Alto spendenti
+4879,Sud,Nuovi
+4880,Centro,Nuovi
+4881,Sud,B2B
+4882,Sud,Alto spendenti
+4883,Centro,Fedeli
+4884,Centro,B2B
+4885,Centro,Alto spendenti
+4886,Nord,Fedeli
+4887,Nord,Alto spendenti
+4888,Sud,Fedeli
+4889,Sud,Fedeli
+4890,Nord,Fedeli
+4891,Centro,Fedeli
+4892,Nord,Alto spendenti
+4893,Centro,Nuovi
+4894,Nord,Nuovi
+4895,Centro,Alto spendenti
+4896,Centro,B2B
+4897,Nord,Alto spendenti
+4898,Nord,Nuovi
+4899,Sud,Fedeli
+4900,Centro,B2B
+4901,Centro,Fedeli
+4902,Centro,Nuovi
+4903,Centro,B2B
+4904,Sud,Alto spendenti
+4905,Nord,Fedeli
+4906,Sud,B2B
+4907,Sud,Fedeli
+4908,Sud,Fedeli
+4909,Nord,Nuovi
+4910,Sud,B2B
+4911,Nord,B2B
+4912,Centro,Fedeli
+4913,Sud,Alto spendenti
+4914,Sud,B2B
+4915,Sud,Alto spendenti
+4916,Sud,Alto spendenti
+4917,Nord,Fedeli
+4918,Centro,Fedeli
+4919,Sud,Alto spendenti
+4920,Nord,B2B
+4921,Nord,B2B
+4922,Centro,Fedeli
+4923,Sud,Fedeli
+4924,Nord,Alto spendenti
+4925,Sud,B2B
+4926,Nord,Alto spendenti
+4927,Nord,Fedeli
+4928,Centro,B2B
+4929,Sud,Alto spendenti
+4930,Nord,Fedeli
+4931,Centro,Fedeli
+4932,Centro,B2B
+4933,Sud,Alto spendenti
+4934,Nord,Alto spendenti
+4935,Centro,Alto spendenti
+4936,Centro,Alto spendenti
+4937,Nord,Alto spendenti
+4938,Nord,Fedeli
+4939,Nord,Nuovi
+4940,Sud,B2B
+4941,Sud,Fedeli
+4942,Centro,Alto spendenti
+4943,Centro,Fedeli
+4944,Centro,Alto spendenti
+4945,Centro,Nuovi
+4946,Centro,Nuovi
+4947,Nord,Nuovi
+4948,Centro,Alto spendenti
+4949,Nord,Nuovi
+4950,Centro,Fedeli
+4951,Sud,Alto spendenti
+4952,Nord,Fedeli
+4953,Centro,Nuovi
+4954,Nord,Alto spendenti
+4955,Nord,Nuovi
+4956,Centro,B2B
+4957,Centro,Alto spendenti
+4958,Centro,Alto spendenti
+4959,Sud,Alto spendenti
+4960,Sud,B2B
+4961,Sud,B2B
+4962,Sud,Fedeli
+4963,Nord,Alto spendenti
+4964,Sud,B2B
+4965,Nord,Fedeli
+4966,Nord,Nuovi
+4967,Sud,Nuovi
+4968,Centro,Alto spendenti
+4969,Centro,Alto spendenti
+4970,Nord,Alto spendenti
+4971,Nord,Alto spendenti
+4972,Nord,Alto spendenti
+4973,Sud,B2B
+4974,Nord,Nuovi
+4975,Nord,Fedeli
+4976,Centro,Nuovi
+4977,Nord,Alto spendenti
+4978,Centro,Nuovi
+4979,Centro,Nuovi
+4980,Sud,Nuovi
+4981,Nord,Fedeli
+4982,Sud,Fedeli
+4983,Centro,Fedeli
+4984,Centro,B2B
+4985,Sud,Fedeli
+4986,Centro,B2B
+4987,Nord,Fedeli
+4988,Nord,Nuovi
+4989,Centro,Alto spendenti
+4990,Sud,Fedeli
+4991,Sud,B2B
+4992,Centro,Alto spendenti
+4993,Nord,Fedeli
+4994,Nord,Nuovi
+4995,Nord,Fedeli
+4996,Centro,B2B
+4997,Nord,Alto spendenti
+4998,Centro,Fedeli
+4999,Centro,Nuovi
+5000,Centro,Nuovi
